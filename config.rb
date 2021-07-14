@@ -46,3 +46,5 @@ page '/*.txt', layout: false
 # end
 
 set :build_dir, 'docs'
+set :markdown_engine, :redcarpet
+set :markdown, :fenced_code_blocks => true, :smartypants => true
