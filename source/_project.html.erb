@@ -1,0 +1,24 @@
+<div class="row mb-1">
+  <div class="col">
+    <div class="card project-card">
+      <div class="row g-0">
+        <div class="col-md-4">
+          <%= image_tag "/images/projects/hpq_online_store_pantallas_max.jpg", class:"image-project" %>
+        </div>
+        <div class="col-md-8">
+          <div class="card-body">
+            <h5 class="card-title"><%= project.name %></h5>
+            <%= markdown(project.text) %>
+
+            <p><small class="text-muted">Last updated 3 mins ago</small></p>
+          </div>
+          <ul class="list-group list-group-flush">
+            <% project.details.each do |key, value| %>
+              <%= project_detail(key, value) %>
+            <% end %>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,33 @@
+- project_1:
+  name: Senior developer at SponsorPay.com (now Fyber)
+  image: /images/projects/sponsorpay_images_max.jpg
+  text: |
+      More than 10K requests per second. Millions of users.
+
+      Monetization Company based in Berlin. Very business focused young startup. Already raised more than 10€ millions from venture capitals.
+
+      A team of 60 very talented people, 22 nationalities, 7 programmers.
+
+      Multiple internal projects. Agile development. High performance. Hardcore team coordination. Multiple platforms.
+  quotes:
+    - quote_1:
+      text: One of the best things end of 2010 was Fernando joining to work with us - on a professional level he immediately provided great value to our team, on a personal level he was a great guy to have on the team. We'll miss him lots and would recommend him to any future employer.
+      author:
+        name: Markus Knoke
+        link: http://www.linkedin.com/pub/markus-knoke/0/140/a54
+        description: CTO SponsorPay GmbH
+
+    - quote_2:
+      text: One of the best things end of 2010 was Fernando joining to work with us - on a professional level he immediately provided great value to our team, on a personal level he was a great guy to have on the team. We'll miss him lots and would recommend him to any future employer.
+      author:
+        name: Markus Knoke
+        link: http://www.linkedin.com/pub/markus-knoke/0/140/a54
+        description: CTO SponsorPay GmbH
+
+  details:
+    dates: 2010 - 2012
+    client: <a href="https://www.fyber.com/" target="_blank">fyber.com</a>
+    responsibilities: Implementing functionalities in the core of the architecture. APIs integrations with more than 100 partners.
+    participation_as: Senior Developer
+    technology: JS, Ruby, Ruby on Rails
+    link: <a href="https://www.fyber.com/" target="_blank">fyber.com</a>
