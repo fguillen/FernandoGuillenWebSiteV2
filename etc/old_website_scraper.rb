@@ -3,6 +3,7 @@
 require "nokogiri"
 require "open-uri"
 require "json"
+require "yaml"
 
 class Scraper
   def initialize(url, data_path, images_path)
@@ -25,7 +26,7 @@ class Scraper
       image = project.css(".imagen a")[0]["href"].split("/").last
       name = project.css("h4")[0].text
 
-      text = project.css(".texto > p:not(.quote-sign)").select { |e| e.css("b").length.zero? }.map{ |e| e.text.split("\n").map(&:strip).join(" ") }.join("\n")
+      text = project.css(".texto > p:not(.quote-sign)").select { |e| e.css("b").length.zero? }.map{ |e| e.text.split("\n").map(&:strip).join(" ") }.join("\n\n")
 
       quotes = extract_quotes(project)
       details = extract_details(project)
@@ -75,7 +76,8 @@ class Scraper
   end
 
   def save_projects(projects, data_path)
-    File.open(data_path, "w") { |f| f.write JSON.pretty_generate(projects) }
+    File.open("#{data_path}/projects.json", "w") { |f| f.write JSON.pretty_generate(projects) }
+    File.open("#{data_path}/projects.yaml", "w") { |f| f.write YAML.dump(JSON.parse(JSON.generate(projects))) }
   end
 
   def save_images(projects, images_path)
@@ -88,7 +90,7 @@ class Scraper
 end
 
 URL = "http://about.fernandoguillen.info/projects.html".freeze
-DATA_PATH = "#{__dir__}/../data/projects.json".freeze
+DATA_PATH = "#{__dir__}/../data".freeze
 IMAGES_PATH = "#{__dir__}/../source/images/projects".freeze
 
 scraper = Scraper.new(URL, DATA_PATH, IMAGES_PATH)
