@@ -1,4 +1,18 @@
 module CustomHelpers
+  ICONS = [
+    "box",
+    "bucket",
+    "circle",
+    "diamond",
+    "egg",
+    "flower3",
+    "flower1",
+    "gear",
+    "heart",
+    "hexagon",
+    "puzzle"
+  ]
+
   def markdown(text)
     renderer = Redcarpet::Render::HTML.new
     markdown = Redcarpet::Markdown.new(renderer)
@@ -14,5 +28,9 @@ module CustomHelpers
     else
       "<li class=\"list-group-item\"><strong>#{capitalized}:</strong> #{markdown(value)}</li>"
     end
+  end
+
+  def random_icon
+    ICONS.sample
   end
 end
