@@ -1,0 +1,376 @@
+---
+- name: MDMagick, the simplest MarkDown WYSIWYG for html input elements
+  image: mdmagick_pantallas_max.jpg
+  text: |-
+    jQuery plugin for add MarkDown butttons and preview to any kind of input field.
+
+    Just add the class mdm-input to any input element in your page and it will became in a MarkDown Editor.
+  details:
+    status: Beta Version
+    dates: '2012'
+    client: Open Source community
+    responsibilities: JavaScript development
+    participation_as: Project Manager
+    technology: JavaScript, jQuery
+    link: MDMagick demo page
+    code: MDMagick github repository
+- name: Space Suckers Chronicles, multiuser permanent universe text based game
+  image: s2c_pantallas_max.jpg
+  text: "Experiment for developing a text based game.\n\nThree layers: \n\nAPI development
+    and communication.\n\nConsole based client.\n\n Logo designed by Juan JosÃ© Vidal. "
+  details:
+    status: Alpha Version
+    dates: '2011'
+    client: Open Source community
+    responsibilities: Ruby development
+    participation_as: Project Manager
+    technology: Ruby, Sinatra
+    code: Space Suckers Chronicles github repository
+- name: Vitreous Cloud, the revolution of the personal website CMSs
+  image: vitreous_cloud_pantallas_max.jpg
+  text: "Is the commercial and multiuser version of the Vitreous project.\n\nNo more
+    web forms, no login, no file uploads. Manage your website from your local hard-disk
+    and let Vitreous to make the magic.\n\n Dealing with the Dropbox API, using Mustache
+    template engine to allow users to modify their own designs, offer and standalone
+    solution to fast design development. \n\n Design a system to using just files
+    as content and metadata. \n\n In collaboration with Juan JosÃ© Vidal. "
+  details:
+    status: Beta Version
+    dates: '2011'
+    client: "-"
+    responsibilities: Ruby development
+    participation_as: Project Manager
+    technology: Ruby, Sinatra, Mustache, Ruby on Rails
+- name: Booky Sitter, a market place for independent publishers
+  image: booky_sitter_pantallas_max.jpg
+  text: "Multi online store service.\n\nLiquid template engine to allow users to modify
+    their own designs.\n\n Online store specialized in the small and independent publishers
+    needs. \n\nCommon shop window and multi shopping cart.\n\n Back office design
+    by Juan JosÃ© Vidal. "
+  details:
+    status: Alpha Version
+    dates: 2010-2011
+    client: "-"
+    responsibilities: Ruby development
+    participation_as: Project Manager
+    technology: Ruby, Liquid, Ruby on Rails
+- name: Computer Malfunction
+  image: computer_malfunction_pantallas_max.jpg
+  text: CSS3 experiment. Very simple animation to simulate the 'computer malfunction'
+    signal in HAL9000
+  details:
+    status: Beta Version
+    dates: '2011'
+    client: Open Source community
+    responsibilities: CSS3 development
+    participation_as: Project Manager
+    technology: CSS3
+    code: Computer Malfunction's Github repository
+- name: Travelling Me jQuery plugin
+  image: travelling_me_pantallas_max.jpg
+  text: "JS library to convert any static div in an interactive scrollable div.\n\nExperimental
+    project. jQuery and javascript juggling.\n\n Developing the Pieles gallery web
+    site based in an infinite horizontal scroll I decided to externalize the JavaScript
+    logic to a jQuery plugin. "
+  details:
+    status: Beta Version
+    dates: '2011'
+    client: Open Source community
+    responsibilities: Java Script development
+    participation_as: Project Manager
+    technology: Java Script, jQuery
+    code: Travelling Me's Github repository
+- name: Sweety Backy, simple backups
+  image: sweety_backy_pantallas_max.jpg
+  text: " Ruby configurable gem for backing up folders and MySQL databases, the destination
+    can be a local path or an S3 bucket. \n\n Focused in very simple configuration. "
+  details:
+    status: Production Version
+    dates: '2011'
+    client: Open Source community
+    responsibilities: Ruby development
+    participation_as: Project Manager
+    technology: Ruby
+- name: Simplecov Rcov Formatter
+  image: simplecov_rcov_pantallas_max.jpg
+  text: " Output formatter for the Ruby 1.9 test coverage gem Simplecov. "
+  details:
+    status: Production Version
+    dates: 2010-2011
+    client: Open Source community
+    responsibilities: Ruby development
+    participation_as: Project Manager
+    technology: Ruby
+- name: Ruby Thimbl gem & Thimbl Singing
+  image: thimbl_pantallas_max.jpg
+  text: " A Ruby gem to communicate with the thimbl protocol and a very simple example
+    of web application for thimbl networks. \n\n Wanting to support this distributed
+    open-source fork of Twitter I have developed a Ruby wrapper for the protocol and
+    a Sinatra example of a web site. "
+  details:
+    status: Production Version
+    dates: '2011'
+    client: Open Source community
+    responsibilities: Ruby development
+    participation_as: Project Manager
+    technology: Ruby, Sinatra
+    link: Thimbl official time line
+- name: Los Ojos de la Ciudad
+  image: lodlc_pantallas_max.jpg
+  text: |-
+    Public webcams repository.
+
+    Multiple government webcams sources, history snapshots, animation play mode.
+
+    Experimental project developed with the company of Alvaro Ortiz for the rumble contest AbreDatos defending the OpenData.
+  details:
+    status: Production Version
+    dates: '2010'
+    client: Open Source community
+    responsibilities: Idea and development
+    participation_as: Project Manager
+    technology: Ruby + Ruby on Rails
+    code: los Ojos de la Ciudad's Github repository
+- name: Vitreous
+  image: vitrious_pantallas_max.jpg
+  text: |-
+    Transparent Portfolio Manager.
+
+    Online portfolio that synchs with your Dropbox online folder so you can manage your online portfolio directly from your local hard disk.
+  details:
+    status: Experiment Version
+    dates: '2010'
+    client: Open Source community
+    responsibilities: Idea and development
+    participation_as: Project Manager
+    technology: Ruby + Sinatra + Dropbox Api + OAuth
+    code: Vitreous's Github repository
+- name: Fibber Mailman
+  image: fibber_mailman_pantallas_max.jpg
+  text: Ruby library for mocking the POP calls so you can simulate your mail inbox
+    on a local folder.
+  details:
+    status: Beta Version
+    dates: '2010'
+    client: Open Source community
+    responsibilities: Idea and development
+    participation_as: Project Manager
+    technology: Ruby
+    link: Fibber Mailman on my blog
+    code: Fibber Mailman's Github repository
+- name: Dummy Dropbox
+  image: dummy_dropbox_pantallas_max.jpg
+  text: |-
+    Very simple ruby library for mocking the dropbox ruby gem.
+
+    You can test your application without making real calls to Dropbox API using a local folder to fake a Dropbox account.
+  details:
+    status: Production Version
+    dates: '2010'
+    client: Open Source community
+    responsibilities: Idea and development
+    participation_as: Project Manager
+    technology: Ruby
+    link: Dummy Dropbox on my blog
+    code: Dummy Dropbox's Github repository
+- name: Testilia
+  image: testilia_pantallas_max.jpg
+  text: |-
+    Multi-test quiz system.
+
+    Simple application to store and manage online tests.
+
+    CVS exams digester, user management, user history tracking.
+  details:
+    status: Experiment/Production Version
+    dates: '2010'
+    client: Open Source community
+    responsibilities: Idea and development
+    participation_as: Project Manager
+    technology: Ruby on Rails
+    code: Testilia's Github repository
+- name: the Kids Art Gallery
+  image: thekidsartgallery_pantallas_max.jpg
+  text: |-
+    Public virtual gallery of paintings and drawings of children from around all countries and continents.
+
+    Multi-gallery system.
+  details:
+    status: Production Version
+    dates: '2010'
+    client: me
+    responsibilities: Idea, development and promotion
+    participation_as: Project Manager
+    technology: Ruby on Rails
+    code: "(not available)"
+- name: Arduino Phixter Visits
+  image: phixter_visits_pantallas_max.jpg
+  text: |-
+    This is my very first Arduino experiment.
+
+    Although it is an Arduino centered project the truth is that the hardest part is on the WebService layer and and on the LocalServer layer.
+
+    Sockets connections.
+  details:
+    status: Experiment Version
+    dates: '2010'
+    client: Open Source community
+    responsibilities: Arduino programming. Ruby desktop application programming. WebService
+      programming
+    participation_as: Project Manager
+    technology: Arduino, Java, Ruby
+    code: Github repository of Arduino Phixter Visits
+- name: iPhone Verb Conjugations
+  image: iphone_verb_conjugations_pantallas_max.png
+  text: |-
+    This is the iPhone native app for other of my pet-projects: Verb Conjugations
+
+    Is a simple iPhone application that tries to help the people is learning Spanish to find out how verb is conjugated.
+  details:
+    status: Production Version
+    dates: '2010'
+    client: Open Source community
+    responsibilities: iPhone development. Apple Bureaucracy Fighter :)
+    participation_as: Project Manager
+    technology: Objective-C, Cocoa Touch Framework
+    code: Github repository of iPhone Verb Conjugations
+- name: Font Party jQuery plugin
+  image: font_party_pantallas_max.jpg
+  text: |-
+    JS library to convert normal text on image characters.
+
+    Experimental project. jQuery and javascript juggling.
+  details:
+    status: Beta Version
+    dates: '2010'
+    client: Open Source community
+    responsibilities: Java Script development
+    participation_as: Project Manager
+    technology: jQuery, Java Script
+    code: Github repository of FontParty
+- name: Let's decide us
+  image: letsdecideus_pantallas_max.jpg
+  text: |-
+    Email simple voting system.
+
+    Email parse system integrated with an online voting system.
+
+    Our participation into the RailsRumble 09.
+
+    Sharing team with Raimond GarcÃ­a, Felipe Talavera, Carlos MatallÃ­n.
+  details:
+    status: Experiment Version
+    dates: '2009'
+    client: Open Source community
+    responsibilities: Enjoy a whole weekend of hacking among friends
+    participation_as: Web Developer
+    technology: Ruby on Rails
+    code: Let'sDecideUs' Github repository
+  quotes:
+  - text: I love the idea and thanks for making it open-source. Definitely going on
+      my todo list for internal use at Hashrocket.
+    author:
+      name: Obie Fernandez
+      link: http://obiefernandez.com/
+      description: Hashrocket's CEO
+- name: BookZee, web service for search books on the New York public libraries.
+  image: bookzee_pantallas_max.jpg
+  text: "The full application is composed by an iPhone App, a Web App, and the Web
+    Service what offers support for the two first. The two last was on my charge.\n\nThe
+    application was presented to a New York software application challenge: NYCBigApps,
+    our app was on second place between 84 apps.\n\nBookZee on the news: BookZee on
+    the NY Daily News, BookZee on Wired online, BookZee on AM New York (PDF page 9),
+    BookZee on SmokinApps. "
+  details:
+    status: Beta Version
+    dates: '2009'
+    client: Mike Cavaliere
+    responsibilities: Web Service API and Web Application development
+    participation_as: Senior Developer
+    technology: Ruby on Rails, ScrAPI
+    code: "(Not public)"
+  quotes:
+  - text: Fernando Guillen is a fantastic developer. He concisely estimates of his
+      skills and is constantly focusing on doing things right from both a technical
+      and product value standpoint. He is passionate his work and does his best to
+      ensure that everything functions excellently.
+    author:
+      name: Mike Cavaliere
+      link: http://cavaliere.org
+      description: BookZee's project manager
+- name: iPhone Verb Conjugations, iphone web application for answer for spanish verb
+    conjugations.
+  image: verb_conjugations_pantallas_max.jpg
+  text: |-
+    One friend of me said he missed a custom iphone application for answer for the spanish verb conjugations. He is english spoken but he is learning spanish. He said that with that kind of help he would be allowed to talk more intelligently.
+
+    So I decided to develop this application for him as a christmas present.
+
+    The first beta version was working on 3 hours.
+
+    It is a web application but try to looks like iPhone native one. Is not Rails but Sinatra. And the core of the application is a work of screen-scrapping another webs.
+  details:
+    status: Experiment Version
+    dates: '2009'
+    client: Open Source community
+    responsibilities: Front and back development. Deployment. Systems maintenance
+    participation_as: Project Manager
+    technology: Ruby, Sinatra, ScrAPI
+    code: Github repository of Verb Conjugations
+- name: One of Zombies, arcade game.
+  image: one_of_zombies_pantallas_max.jpg
+  text: |-
+    This another experiment but this time not a web project but a game.
+
+    Ruby code using Gosu 2D game library
+  details:
+    status: Experiment Version
+    dates: '2009'
+    client: Open Source community
+    responsibilities: Illustration. Ruby coding
+    participation_as: Project Manager
+    technology: Ruby
+    code: Github repository of One of Zombies
+- name: Geo Alertas, your alerts on depending your position.
+  image: geo_alertas_pantallas_max.jpg
+  text: |-
+    This is another RoR experiment when my RoR knowledge was still green. Experimenting with simple Rails app, ajax, ...
+
+    Geo location, Google Maps, phone geolocation integration.
+  details:
+    dates: '2008'
+    client: Open Source community
+    responsibilities: Design. Front and back development. Deployment. Systems maintenance
+    participation_as: Project Manager
+    technology: Ruby on Rails
+    code: Google Code repository of GeoAlertas
+- name: The Phone Baptizer, offer a name to you phone number.
+  image: the_phone_baptizer_pantallas_max.jpg
+  text: |-
+    Tool to offer a possible system to remember easily a phone number. Background algorithm. Ajax.
+
+    This is another RoR experiment when my RoR knowledge was still green. Experimenting with simple Rails app, ajax, ...
+
+    The whole application need an improvement, from the algorithm until the test coverture.
+  details:
+    dates: '2008'
+    client: Open Source community
+    responsibilities: Front and back development. Deployment. Systems maintenance
+    participation_as: Project Manager
+    technology: Ruby on Rails
+    code: Github repository of The Phone Baptizer
+- name: HolaPorQue, online store.
+  image: hpq_online_store_pantallas_max.jpg
+  text: |-
+    AdHoc online store. Multi-item. Galleries. Shopping cart. PayPal integration.
+
+    This has been my very first Ruby on Rails project. I focused it like an study exercise and I work on it without any idea about what RoR and Ruby was. This is because the code sucks :). But it is still up and working.
+
+    With a web design of HolaPorQue.
+  details:
+    dates: '2007'
+    client: HolaPorQue
+    responsibilities: Front and back development. Deployment. Systems maintenance
+    participation_as: Project Manager
+    technology: Ruby on Rails
+    code: Github repository of HolaPorQue online store

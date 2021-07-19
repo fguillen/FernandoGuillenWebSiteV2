@@ -1,4 +1,69 @@
 ---
+- name: Dalia Research GmbH
+  image: dalia_research.jpg
+  text: |-
+    I hands-on directed the implementation from scratch of an architecture that now supports more than 100K requests/min and a business of 8 figures. I leaded the technology decisions of a team of ~80 members.
+
+    - 500M Micro-Surveys per month
+    - 220K Respondents per day in 100+ countries
+    - 100K Requests/minute
+    - DBs with 5K IOPs
+    - 500 Servers
+    - 30 Micro services
+
+    I took the role of CTO and one of the co-founders at Dalia and my key responsibility was to create a great technical architecture
+    that is easy to work with and that is capable of rapidly adapting to the business needs.
+
+    I formed part of the Engineering Teams (Development, Data Science, DevOps and Quality Assurance).
+
+    I participated in any initiative that requires technology support.
+    Including technical advice, high level strategic technical decisions, technical architecture design, inter product technical dependencies, third-party technologies integrations.
+
+    I got involved in any management-related initiative related to Engineering.
+
+    I also participated in giving strategy consulting support for business high perspective initiatives.
+
+    As one of the co-founders I also took part of strategic initiatives decisions and represented company in the investors funding due diligences.
+
+  details:
+    dates: '2013 - 2021'
+    client: Dalia Research GmbH
+    responsibilities: "[My role responsibilities at Dalia](https://docs.google.com/document/d/1ch6PtLXhz_YHWkU4t_h8FG6CWYasrajsATLvLFzNh6E/edit)"
+    participation_as: CTO / Co-founder
+    technology: Ruby on Rails, JS, React, VueJS, Spark, Kafka, Graphite, AWS, Docker, Redis, MongoDB
+  quotes:
+  - text: There is few people that ever impressed me as much as Fernando - he is someone that
+      radiates curiosity and uniquely combines playfulness and creativity, with extreme professionalism, detail-orientation and precision.
+      He built an impressive technology infrastructure at Dalia from scratch that enabled us to reach millions of people in 100+ countries in real-time,
+      which allowed us to disrupt the consumer insights world at a rapid pace.
+    author:
+      name: Niklas Anzinger
+      link: https://www.linkedin.com/in/niklas-anzinger-50031653/
+      description: VP Strategy & Growth, Enterprise Solutions at Dalia Research
+- name: AppBounty
+  image: appbounty.jpg
+  text: |-
+    I took care of the technology decisions, I implemented the backend architecture, defined the deployment process, coordination of the IT resources.
+    Worked side by side with the product team. I made real, in a technological perspective, the CEO vision.
+
+    Appbounty was a spin-off from a big ad-tech company.
+    Thanks for the good CEO vision and the very good management of the technical resources the project
+    moves in six months from the pet-project of a big company to a very profitable product generating 6 figures dollars per month.
+  details:
+    dates: '2011 - 2013'
+    client: Advertile Mobile
+    responsibilities: Leading the IT team, product refinement coach, backend development, monitoring systems
+    participation_as: IT Lead
+    technology: Ruby on Rails, JS, Mobile development
+  quotes:
+  - text: Fernando has been one of the core factors for the success of our main product AppBounty.
+      His technical expertise in combination with his structured way of approaching new challenges makes him a one
+      man army for Ruby development.
+      Additionally, he is a fun guy to work with. I would always hire him again. See less
+    author:
+      name: Jens Disselhoff
+      link: https://www.linkedin.com/in/jdisselhoff/
+      description: Founder & Managing Director of Advertile Mobile
 - name: Taxi Mallorca Airport
   image: tma_pantallas_max.jpg
   text: |-

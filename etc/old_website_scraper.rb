@@ -64,6 +64,7 @@ class Scraper
     details_raw = project.css(".texto > p:not(.quote-sign)").reject { |e| e.css("b").length.zero? }
 
     details = {}
+    details[:status] = details_raw.find { |e| e.css("b").text == "Status:" }.text.gsub("Status:", "").strip.gsub(/\.$/, "") if details_raw.find { |e| e.css("b").text == "Status:" }
     details[:dates] = details_raw.find { |e| e.css("b").text == "Dates:" }.text.gsub("Dates:", "").strip.gsub(/\.$/, "")
     details[:client] = details_raw.find { |e| e.css("b").text == "Client:" }.text.gsub("Client:", "").strip.gsub(/\.$/, "")
     details[:responsibilities] = details_raw.find { |e| e.css("b").text == "Tasks:" }.text.gsub("Tasks:", "").split("\n").map(&:strip).join(" ").strip.gsub(/\.$/, "")
@@ -76,8 +77,8 @@ class Scraper
   end
 
   def save_projects(projects, data_path)
-    File.open("#{data_path}/projects.json", "w") { |f| f.write JSON.pretty_generate(projects) }
-    File.open("#{data_path}/projects.yaml", "w") { |f| f.write YAML.dump(JSON.parse(JSON.generate(projects))) }
+    # File.open("#{data_path}/projects.json", "w") { |f| f.write JSON.pretty_generate(projects) }
+    File.open(data_path, "w") { |f| f.write YAML.dump(JSON.parse(JSON.generate(projects))) }
   end
 
   def save_images(projects, images_path)
@@ -89,9 +90,13 @@ class Scraper
   end
 end
 
-URL = "http://about.fernandoguillen.info/projects.html".freeze
-DATA_PATH = "#{__dir__}/../data".freeze
-IMAGES_PATH = "#{__dir__}/../source/images/projects".freeze
+URL = "http://about.fernandoguillen.info/petprojects.html".freeze
+DATA_PATH = "#{__dir__}/../data/pet_projects.yaml".freeze
+IMAGES_PATH = "#{__dir__}/../source/images/pet_projects".freeze
+
+# URL = "http://about.fernandoguillen.info/projects.html".freeze
+# DATA_PATH = "#{__dir__}/../data/projects.yaml".freeze
+# IMAGES_PATH = "#{__dir__}/../source/images/projects".freeze
 
 scraper = Scraper.new(URL, DATA_PATH, IMAGES_PATH)
 scraper.run

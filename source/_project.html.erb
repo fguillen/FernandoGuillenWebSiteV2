@@ -3,7 +3,7 @@
     <div class="card project-card">
       <div class="row g-0">
         <div class="col-md-4">
-          <%= image_tag "/images/projects/#{project.image}", class:"image-project" %>
+          <%= image_tag "/images/#{project_kind}s/#{project.image}", class:"image-project" %>
         </div>
         <div class="col-md-8">
           <div class="card-body">
@@ -24,8 +24,6 @@
                 </blockquote>
               <% end %>
             <% end %>
-
-            <p><small class="text-muted">Last updated 3 mins ago</small></p>
           </div>
           <ul class="list-group list-group-flush">
             <% project.details.each do |key, value| %>
@@ -37,3 +35,5 @@
     </div>
   </div>
 </div>
+
+<hr class="mx-5">
