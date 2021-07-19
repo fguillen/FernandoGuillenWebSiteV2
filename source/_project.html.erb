@@ -10,6 +10,21 @@
             <h5 class="card-title"><%= project.name %></h5>
             <%= markdown(project.text) %>
 
+            <% if project.quotes %>
+              <% project.quotes.each do |quote| %>
+                <blockquote class="blockquote px-xxl-5">
+                  <%= markdown(quote.text) %>
+                  <footer class="blockquote-footer">
+                    <% if quote.author.link %>
+                      <a href="<%= quote.author.link %>" target="_blank"><%= quote.author.name %></a>, <%= quote.author.description %>.
+                    <% else %>
+                      <strong><%= quote.author.name %></strong>, <%= quote.author.description %>.
+                    <% end %>
+                  </footer>
+                </blockquote>
+              <% end %>
+            <% end %>
+
             <p><small class="text-muted">Last updated 3 mins ago</small></p>
           </div>
           <ul class="list-group list-group-flush">
