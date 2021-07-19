@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap");
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css");
 .icon-list {
   padding-left: 0;
   list-style: none; }
@@ -28,6 +29,9 @@ blockquote > p {
   font-style: italic;
   color: #888;
   padding: 10px 50px 10px 40px; }
+
+.blockquote-footer {
+  padding-left: 10px; }
 
 .image-project {
   width: 100%;
