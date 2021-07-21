@@ -1,5 +1,25 @@
 ---
 
+- name: Appreciations Billboard, simple App to deliver appreciation
+  image: appreciations_billboard.png
+  text: |-
+    Built during my period at Dalia to promote a culture of appreciation among our team of 80 people.
+
+    The application was running in the big screen of the kitchen all the time showing random appreciations
+    from one person to another.
+
+    All the team was really engaged with the spirit and contribute adding content to the app almost every day.
+
+    It generated a very good vibe making the team work more efficient.
+  details:
+    status: Production Version
+    dates: '2020'
+    client: N/A
+    responsibilities: Front Developer, Back Developer, Deployment
+    participation_as: Project Manager, Developer and Maintainer
+    technology: Ruby on Rails
+    code: https://github.com/fguillen/AppreciationsBillboard
+
 - name: MDMagick, the simplest MarkDown WYSIWYG for html input elements
   image: mdmagick_pantallas_max.jpg
   text: |-
@@ -380,7 +400,7 @@
 
     Ruby code using Gosu 2D game library
 
-    Presented in
+    [Presented on the EuRuKo in Krakow on May of 2010](https://youtu.be/F1kDW538P0I).
   details:
     status: Experiment Version
     dates: '2009'
