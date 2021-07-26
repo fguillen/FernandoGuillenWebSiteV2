@@ -1,5 +1,7 @@
 ---
 
+
+
 - name: Appreciations Billboard, simple App to deliver appreciation
   image: appreciations_billboard.png
   text: |-
@@ -19,6 +21,23 @@
     participation_as: Project Manager, Developer and Maintainer
     technology: Ruby on Rails
     code: https://github.com/fguillen/AppreciationsBillboard
+
+- name: Engage Meter, a real time way to connect with your audience
+  image: engage_meter.jpg
+  text: |-
+    Distribute the QR code of your talk/show/performance among your audience.
+
+    Receive and monitor the engagement of your audience in realtime.
+
+    Realize post-mortem analysis of the moments where the level of engagement was not as expected.
+  details:
+    status: Alpha Version
+    dates: '2018'
+    client: N/A
+    responsibilities: Front Developer, Back Developer, Deployment
+    participation_as: Project Manager, Developer and Maintainer
+    technology: Ruby on Rails
+    code: https://github.com/fguillen/EngageMeter
 
 - name: MDMagick, the simplest MarkDown WYSIWYG for html input elements
   image: mdmagick_pantallas_max.jpg
