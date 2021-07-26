@@ -2,6 +2,7 @@
 
 
 
+
 - name: Appreciations Billboard, simple App to deliver appreciation
   image: appreciations_billboard.png
   text: |-
@@ -39,6 +40,24 @@
     technology: Ruby on Rails
     code: https://github.com/fguillen/EngageMeter
 
+- name: Country Codes Conquest, challenge your knowledge about Country Codes
+  image: country_codes_conquest.jpg
+  text: |-
+    Small quiz game to test your ability of associating the correct Country Code to a Country Name
+
+    This application was created to encourage our development team to know by heart
+    all the Country Codes in the World. We were working in a very international product
+    and all our internal references to countries were made via Country Codes.
+  details:
+    status: Production Version
+    dates: '2016'
+    client: N/A
+    responsibilities: Front Developer
+    participation_as: Project Manager, Developer and Maintainer
+    technology: EmberJS
+    code: https://github.com/fguillen/CountryCodesConquest
+    link: http://fguillen.github.io/CountryCodesConquest/
+
 - name: MDMagick, the simplest MarkDown WYSIWYG for html input elements
   image: mdmagick_pantallas_max.jpg
   text: |-
@@ -54,6 +73,39 @@
     technology: JavaScript, jQuery
     link: https://fguillen.github.io/MDMagick/
     code: https://github.com/fguillen/MDMagick
+
+- name: Dummy Javascript Emulators, Windows and OSX web emulators
+  image: dummy_javascript_emulators.jpg
+  text: |-
+    After see the amazing things that the people is doing with Javascript, like the Linux Javascript Emulator
+    I just couldn't resist to make my own Windows and OSX Javascript emulators.
+
+    Attention: this is just a joke.
+  details:
+    status: Production Version
+    dates: '2012'
+    client: N/A
+    responsibilities: Front Developer
+    participation_as: Project Manager, Developer and Maintainer
+    technology: Ruby on Rails
+    code: https://github.com/fguillen/DummyJavascriptEmulators
+    link: https://fguillen.github.io/DummyJavascriptEmulators/
+
+- name: Animal Chat, massive multi user live web chat
+  image: animal_chat.jpg
+  text: |-
+    Animal Chat is a massive multi user on live web chat developed using the HTML5 WebSocket technology.
+
+    It is just a programming experiment to taste how the WebSocket technology works,
+    how to implement it and how is its performance.
+  details:
+    status: Production Version
+    dates: '2011'
+    client: N/A
+    responsibilities: Front Developer, Back Developer, Deployment
+    participation_as: Project Manager, Developer and Maintainer
+    technology: Ruby, EventMachine Web Sockets, BackBoneJS
+    code: https://github.com/fguillen/AnimalChat
 
 - name: Space Suckers Chronicles, multiplayer permanent universe text based game
   image: s2c_pantallas_max.jpg
