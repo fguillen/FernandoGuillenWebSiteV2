@@ -6,12 +6,12 @@
 
   I primarily work on Rails applications, but have a solid exposure to the full web development stack.
 
-  At one time or another, I have been in charge of: prototyping, implementing deployment CI based processes, cloud based servers administration, working on or directing scrum teams, working hand by hand with the product team, suffering the hell of having to make C level decisions, microservices, high load traffic, fraud prevention, performance monitoring, autoscaling, terabytes sized DBs, APIs design, ...
+  At one time or another, I have been in charge of: prototyping, implementing deployment CI based processes, cloud based servers administration, working on or directing agile/scrum teams, working hand by hand with the product team, suffering the hell of having to make C level decisions, implementing microservices architectures, dealing with high load traffic, fraud prevention, performance monitoring, autoscaling, terabytes sized DBs, no down-time big DB migrations, APIs design, ...
 
-  I've also had plenty of exposure to different languages including python, C#, Java. And of course most of the modern JS frameworks like React and VueJS.
+  I've also had plenty of exposure to different languages including Python, C#, Java. And of course most of the modern JS frameworks like React and VueJS.
 
   ... But Ruby is what I enjoy working the most.
 
-  I am not just a developer, I have sensibility for the business needs, I know when to make compromises, when to cut corners, when to offer alternatives. I am used to working elbow to elbow with the product, sales and leader teams.
+  I am not just a developer, I have sensibility for the business needs, I know when to make compromises, I have a pragmatic approach, I put always the priority in business grow and success, I know when to offer alternatives. I am used to working elbow to elbow with the product, sales and leader teams.
 
   I have had the luck of having been always surrounded by incredibly well talented people. I have learned everything I know from them. I owe everything I know to the people of the teams I have worked in, to the community around open source, web development in general and Ruby in particular.
