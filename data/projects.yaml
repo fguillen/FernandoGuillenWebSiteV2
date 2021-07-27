@@ -78,24 +78,23 @@
     technology: Ruby on Rails
   quotes:
   - text: We are an old fashion company, we didn't know we could use internet in our
-      bussiness. We are very satisfied after follow the <a href="http://fernandoguillen.info">Fernando</a>'s
+      bussiness. We are very satisfied after follow the Fernando's
       advices, we are lucky to have him.
     author:
-      name: Pep AguilÃ³
+      name: Pep Aguiló
       description: Mallorca's taxi driver
-- name: SponsorPay
+- name: Fyber
   image: sponsorpay_images_max.jpg
-  text: "Monetization Company based in Berlin. Very business focused young startup.
-    Already raised more than 10â\x82¬ millions from venture capitals.\n\nA team of
-    60 very talented people, 22 nationalities, 7 programmers.\n\nMultiple internal
-    projects. Agile development. Hight performance. Hardcore team coordination. Multiple
-    platforms."
+  text: |-
+    Hardcore AdTech company in Berlin. Successfully exited. IPO on 2015.
+
+    60 very talented people, 22 nationalities, 7 programmers. Multiple Services. Agile development. Hight performance. Hardcore team coordination. Multiple platforms.
   details:
-    dates: 2010-2011
-    client: SponsorPay GmbH
+    dates: 2010-2012
+    client: Fyber GmbH
     responsibilities: Development and maintenance of core architecture modules
     participation_as: Senior Developer
-    technology: JavaScript & Ruby & Ruby on Rails
+    technology: JavaScript, Ruby, Ruby on Rails
   quotes:
   - text: One of the best things end of 2010 was Fernando joining to work with us
       for a few months - on a professional level he immediately provided great value
@@ -104,12 +103,12 @@
     author:
       name: Markus Knoke
       link: http://www.linkedin.com/pub/markus-knoke/0/140/a54
-      description: CTO SponsorPay GmbH
-  - text: 'Head in the clouds, feet on the ground: always looking for something new,
-      still getting stuff done - thanks Fernando, it was a pleasure!'
+      description: CTO Fyber GmbH
+  - text: "Head in the clouds, feet on the ground: always looking for something new,
+      still getting stuff done - thanks Fernando, it was a pleasure!"
     author:
-      name: Simon KrÃ¶ger
-      link: http://rubyforge.org/users/simon/
+      name: Simon Kröger
+      link: https://www.linkedin.com/in/simon-kr%C3%B6ger-47690166/
       description: Lead Developer
 - name: Lino Escalera
   image: linoescalera_pantallas_max.jpg
@@ -143,17 +142,16 @@
     participation_as: Project Manager
     technology: Ruby on Rails
   quotes:
-  - text: 'I''ve had the opportunity and the privilege of working with Fernando on
-      several projects: <a href="#ceac" title="CEAC/Home English project">Ceac</a>,
-      <a href="#vitra" title="Vitra prject">Vitra</a> and <a href="#adialoffice" title="AdialOffice
-      project">AdialOffice</a>. On any of it he has been a key piece for the success
+  - text: "I've had the opportunity and the privilege of working with Fernando on
+      several projects: Ceac,
+      Vitra and AdialOffice. On any of it he has been a key piece for the success
       of the project thanks to his involvement and commitment with each project, his
       technical skills for development, his contributions for improve it, and his
       continuous concern with the satisfaction of the final user once the project
-      is ongoing.'
+      is ongoing."
     author:
-      name: Francisco MuÃ±oz Bosch
-      description: independent business process analyst and consultor
+      name: Francisco Muñoz Bosch
+      description: Independent business process analyst and consultant
 - name: Partigi
   image: partigi_pantallas_max.jpg
   text: |-

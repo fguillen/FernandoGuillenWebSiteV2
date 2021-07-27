@@ -1,51 +1,25 @@
 <div id="testimonials">
   <div id="testimonials-carousel" class="carousel carousel-dark slide" data-bs-ride="carousel" data-bs-interval="false">
     <div class="carousel-indicators">
-      <button type="button" data-bs-target="#testimonials-carousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-      <button type="button" data-bs-target="#testimonials-carousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
-      <button type="button" data-bs-target="#testimonials-carousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+      <% data.testimonials.each_slice(3).to_a.each_with_index do |_, index| %>
+        <button type="button" data-bs-target="#testimonials-carousel" data-bs-slide-to="<%= index %>" class="<%= "active" if index.zero? %>" <% "aria-current=\"true\"" if index.zero? %> aria-label="Slide <%= index %>"></button>
+      <% end %>
     </div>
+
     <div class="carousel-inner">
-      <div class="carousel-item active">
-        <div class="row mx-5 mb-5 g-2 row-cols-1 row-cols-md-3">
-          <div class="col">
-            <%= partial "testimonial" %>
-          </div>
-          <div class="col">
-            <%= partial "testimonial" %>
-          </div>
-          <div class="col">
-            <%= partial "testimonial" %>
+      <% data.testimonials.each_slice(3).to_a.each_with_index do |testimonials_group, index| %>
+        <div class="carousel-item <%= "active" if index.zero? %>">
+          <div class="row mx-5 mb-5 g-2 row-cols-1 row-cols-md-3">
+            <% testimonials_group.each do |testimonial| %>
+              <div class="col">
+                <%= partial "testimonial", locals: { testimonial: testimonial } %>
+              </div>
+            <% end %>
           </div>
         </div>
-      </div>
-      <div class="carousel-item">
-        <div class="row mx-5 mb-5 g-2 row-cols-1 row-cols-md-3">
-          <div class="col">
-            <%= partial "testimonial" %>
-          </div>
-          <div class="col">
-            <%= partial "testimonial" %>
-          </div>
-          <div class="col">
-            <%= partial "testimonial" %>
-          </div>
-        </div>
-      </div>
-      <div class="carousel-item">
-        <div class="row mx-5 mb-5 g-2 row-cols-1 row-cols-md-3">
-          <div class="col">
-            <%= partial "testimonial" %>
-          </div>
-          <div class="col">
-            <%= partial "testimonial" %>
-          </div>
-          <div class="col">
-            <%= partial "testimonial" %>
-          </div>
-        </div>
-      </div>
+      <% end %>
     </div>
+
     <button class="carousel-control-prev" type="button" data-bs-target="#testimonials-carousel" data-bs-slide="prev">
       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
       <span class="visually-hidden">Previous</span>
