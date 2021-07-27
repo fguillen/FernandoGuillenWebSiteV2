@@ -1,0 +1,742 @@
+<div class="row">
+    <div class="col">
+        <img src="/images/pic_1.jpg" class="img-fluid" alt="Fernando Guillen">
+    </div>
+    <div class="col-lg-10 col-md-12">
+        <h2 class="mt-sm-4 mt-4 mt-lg-0">Helping Business to develop their Technology Products and Technical Architectures</h2>
+
+        <p class="  fs-5 col-md- 8 ">Hello, I am Fernando, I am original from Spain, but I've been living last decade in Berlin. I am experienced full stack web developer with more of 20 years of substantial background building big and small technical products. I can help you to build the technology product and technical architecture your business needs.</p>
+
+        <p>Full-stack freelancer web developer, primarily using Ruby on Rails and associated technologies.</p>
+
+<p>I am a specialist in getting technology products off the ground, from design idea to fully functional application. Focus on production quality, but also on fast feedback loops: deliver fast and iterate. On this role I have worked for start-ups, big companies and also on personal entrepreneurial projects. As an &ldquo;individual contributor&rdquo; or as part of a small or large engineering team, as a senior developer or leading architecture decisions.</p>
+
+<p>Most recently in my role as a Co-founder and CTO of a fast growing technology company, I was hands-on directing the implementation from scratch of an architecture that now supports more than 100K requests/min and a business of 8 figures. Leading the technology decisions of a team of ~80 members.</p>
+
+<p>I primarily work on Rails applications, but have a solid exposure to the full web development stack.</p>
+
+<p>At one time or another, I have been in charge of: prototyping, implementing deployment CI based processes, cloud based servers administration, working on or directing agile/scrum teams, working hand by hand with the product team, suffering the hell of having to make C level decisions, implementing microservices architectures, dealing with high load traffic, fraud prevention, performance monitoring, autoscaling, terabytes sized DBs, no down-time big DB migrations, APIs design, &hellip;</p>
+
+<p>I&rsquo;ve also had plenty of exposure to different languages including Python, C#, Java. And of course most of the modern JS frameworks like React and VueJS.</p>
+
+<p>&hellip; But Ruby is what I enjoy working the most.</p>
+
+<p>I am not just a developer, I have sensibility for the business needs, I know when to make compromises, I have a pragmatic approach, I put always the priority in business grow and success, I know when to offer alternatives. I am used to working elbow to elbow with the product, sales and leader teams.</p>
+
+<p>I have had the luck of having been always surrounded by incredibly well talented people. I have learned everything I know from them. I owe everything I know to the people of the teams I have worked in, to the community around open source, web development in general and Ruby in particular.</p>
+
+
+        <p><a href="mailto:fguillen.mail@gmail.com" class="btn btn-primary btn-lg px-4" target="_blank">Contact me</a></p>
+
+        <hr class="col-3 col-md-2 mt-5">
+
+        <h2>Testimonials</h2>
+        <p>My team colleges and clients talk about me</p>
+        <div id="testimonials">
+  <div id="testimonials-carousel" class="carousel carousel-dark slide" data-bs-ride="carousel" data-bs-interval="false">
+    <div class="carousel-indicators">
+        <button type="button" data-bs-target="#testimonials-carousel" data-bs-slide-to="0" class="active"  aria-label="Slide 0"></button>
+        <button type="button" data-bs-target="#testimonials-carousel" data-bs-slide-to="1" class=""  aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#testimonials-carousel" data-bs-slide-to="2" class=""  aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#testimonials-carousel" data-bs-slide-to="3" class=""  aria-label="Slide 3"></button>
+        <button type="button" data-bs-target="#testimonials-carousel" data-bs-slide-to="4" class=""  aria-label="Slide 4"></button>
+    </div>
+
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+          <div class="row mx-5 mb-5 g-2 row-cols-1 row-cols-md-3">
+              <div class="col">
+                <div class="card testimonial">
+  <div class="text-center pt-3">
+    <img src="images/portraits/alessandro_caporrini.jpg" class="card-img-top avatar" alt="Alessandro Caporrini">
+  </div>
+  <div class="card-body">
+    <h5 class="card-title text-center"><a href="https://www.linkedin.com/in/alessandrocaporrini" target="_blank">Alessandro Caporrini</a></h5>
+    <h6 class="card-subtitle mb-2 text-muted  text-center">Senior Software Engineer</h6>
+    <p class="card-text">
+
+      <blockquote>
+        I had the honor and pleasure to work closely with Fernando for several years and I’m convinced that h ...
+        <a href="#" data-bs-toggle="modal" data-bs-target="#Alessandro-Caporrini">
+          read full
+        </a>
+      </blockquote>
+
+    </p>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="Alessandro-Caporrini" tabindex="-1" aria-labelledby="Alessandro-CaporriniLabel" aria-hidden="true">
+  <div class="modal-dialog modal-fullscreen-sm-down modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="Alessandro-CaporriniLabel"><a href="https://www.linkedin.com/in/alessandrocaporrini" target="_blank">Alessandro Caporrini</a> · <small class="text-muted">Senior Software Engineer</small></h5>
+
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <img src="images/portraits/alessandro_caporrini.jpg" class="card-img-top avatar float-end ms-2 me-4 mt-2 mb-4" alt="Alessandro Caporrini">
+        <blockquote>
+          <p>I had the honor and pleasure to work closely with Fernando for several years and I’m convinced that he is the most talented Engineer I’ve ever met. At that time he was the CTO of the company I joined and I could witness him building an impressive and complex distributed architecture from the ground up, an architecture that scaled flawlessly over the years up to millions of users sessions through several microservices and API integrations with third party partners. His talent in designing an elastic resilient and versatile system from the very start was what made possible for the company to keep growing exponentially and expand their business without technical constraints.</p>
+
+<p>He is a well rounded engineer, he’s a passionate rubyst and a true talent in full stack development with Rails, but he is also able to jump into every technology and learn it in no time.</p>
+
+<p>From design to hands-on coding up to infrastructure and operations, Fernando was the main driver of every technical solution of the company and a reference and inspiration for every employee inside and outside of the technical department.</p>
+
+<p>He has an impressive talent for finding effective technical solutions to every kind of business requirement or issue and when designing software his style is clean, effective and simple. Through Fernando I learned the value of always being 100% committed to finding the most simple yet effective solution for every requirement. Instead of showcasing his talent through over-engineering or choices of hyped but unnecessary technologies, his main focus was always on delivering features that carry business value in the most agile, simple and maintainable way. You can always trust Fernando to deliver what the business needs, in the most effective way possible.</p>
+
+<p>He was a very loved and appreciated leader in our company, his leadership style is direct and radically honest, Fernando is never afraid of speaking his mind or engaging in a difficult conversation if there’s an issue to solve.His authenticity has always inspired respect and admiration among his coworkers. At the same time his approachability and sense of humor make every interaction with him extremely enjoyable.</p>
+
+<p>Above anything else, I consider him the most important mentor I had in my professional life. His ability and passion to transmit knowledge clearly, as well as an incredible amount of patience and dedication to the mentor role made possible for me and other developers joining the company to learn and grow immensely.</p>
+
+<p>No matter the kind of problem or necessity, Fernando is always 100% committed to helping and delivering real value and I’m sure that this will be of immense benefit to every project or company he will work with.</p>
+
+        </blockquote>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+              </div>
+              <div class="col">
+                <div class="card testimonial">
+  <div class="text-center pt-3">
+    <img src="images/portraits/svitlana_khimka.jpg" class="card-img-top avatar" alt="Svitlana Khimka">
+  </div>
+  <div class="card-body">
+    <h5 class="card-title text-center"><a href="https://www.linkedin.com/in/svetlanakhimka/" target="_blank">Svitlana Khimka</a></h5>
+    <h6 class="card-subtitle mb-2 text-muted  text-center">VP of Product</h6>
+    <p class="card-text">
+
+      <blockquote>
+        I can recommend Fernando as a very experienced software architect and tech leader.
+
+He has very good  ...
+        <a href="#" data-bs-toggle="modal" data-bs-target="#Svitlana-Khimka">
+          read full
+        </a>
+      </blockquote>
+
+    </p>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="Svitlana-Khimka" tabindex="-1" aria-labelledby="Svitlana-KhimkaLabel" aria-hidden="true">
+  <div class="modal-dialog modal-fullscreen-sm-down modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="Svitlana-KhimkaLabel"><a href="https://www.linkedin.com/in/svetlanakhimka/" target="_blank">Svitlana Khimka</a> · <small class="text-muted">VP of Product</small></h5>
+
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <img src="images/portraits/svitlana_khimka.jpg" class="card-img-top avatar float-end ms-2 me-4 mt-2 mb-4" alt="Svitlana Khimka">
+        <blockquote>
+          <p>I can recommend Fernando as a very experienced software architect and tech leader.</p>
+
+<p>He has very good business knowledge and always pushes to understand product and business needs before offering a technical solution. As a product manager, I was always happy to have him as a sparring partner because he could meaningfully challenge given assumptions and help to find the easiest way to test them.</p>
+
+<p>Fernando is also a very talented software architect, the core system that he developed at Dalia proved itself to be scalable and easy to maintain. Fernando always thinks holistically about the system and tries to foresee future changes, at the same time he is very pragmatic and strives for simplicity. The combination of these traits allows him to create the best solutions for the business.</p>
+
+<p>Fernando also is a great person to work with. He is honest and direct and at the same very empathetic and cheerful.</p>
+
+        </blockquote>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+              </div>
+              <div class="col">
+                <div class="card testimonial">
+  <div class="text-center pt-3">
+    <img src="images/portraits/jakob_ludewig.jpg" class="card-img-top avatar" alt="Jakob Ludewig">
+  </div>
+  <div class="card-body">
+    <h5 class="card-title text-center"><a href="https://www.linkedin.com/in/jakob-ludewig/" target="_blank">Jakob Ludewig</a></h5>
+    <h6 class="card-subtitle mb-2 text-muted  text-center">Senior Data Scientist</h6>
+    <p class="card-text">
+
+      <blockquote>
+        Fernando is probably the most gifted and complete engineer I have ever worked with. When I joined Dal ...
+        <a href="#" data-bs-toggle="modal" data-bs-target="#Jakob-Ludewig">
+          read full
+        </a>
+      </blockquote>
+
+    </p>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="Jakob-Ludewig" tabindex="-1" aria-labelledby="Jakob-LudewigLabel" aria-hidden="true">
+  <div class="modal-dialog modal-fullscreen-sm-down modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="Jakob-LudewigLabel"><a href="https://www.linkedin.com/in/jakob-ludewig/" target="_blank">Jakob Ludewig</a> · <small class="text-muted">Senior Data Scientist</small></h5>
+
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <img src="images/portraits/jakob_ludewig.jpg" class="card-img-top avatar float-end ms-2 me-4 mt-2 mb-4" alt="Jakob Ludewig">
+        <blockquote>
+          <p>Fernando is probably the most gifted and complete engineer I have ever worked with. When I joined Dalia he was the one-man engineering team, handling everything from frontend, backend to DevOps. During that time he not only maintained the platform but built new features that allowed the company to grow from a few hundred to millions of users.</p>
+
+<p>Fernando combines his excellent engineering skills with a holistic view of the product he is working on. He does not only think in features and tickets but has a keen interest and ability to understand the context of his work. This character trait makes him an invaluable asset to any team as he can really bridge the gap between technology and business.</p>
+
+<p>Fernando has a curious and creative mind and is always trying out new technologies and ways to approach a problem. However, when it comes to building a solution he will not make any compromises and always choose the technology that best fits the problem - he is 100 % results driven.</p>
+
+<p>I have personally benefited greatly from Fernando’s leadership and mentorship qualities. When I joined Dalia as a junior data scientist he always dedicated time to share his technical knowledge with me, even in hectic situations. He has a great way of challenging people to improve themselves and their work. When you present your ideas to Fernando you know that they will be better and more refined afterwards.</p>
+
+<p>Apart from that Fernando has a great character and humor which make him very easy to work with. He has a natural way of creating a great environment for the people around him. I remember many moments where he defused a stressful or tense situation with a funny remark or joke.</p>
+
+        </blockquote>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+              </div>
+          </div>
+        </div>
+        <div class="carousel-item ">
+          <div class="row mx-5 mb-5 g-2 row-cols-1 row-cols-md-3">
+              <div class="col">
+                <div class="card testimonial">
+  <div class="text-center pt-3">
+    <img src="images/portraits/suman_kunwar.jpg" class="card-img-top avatar" alt="Suman Kunwar">
+  </div>
+  <div class="card-body">
+    <h5 class="card-title text-center"><a href="https://www.linkedin.com/in/sumn2u/" target="_blank">Suman Kunwar</a></h5>
+    <h6 class="card-subtitle mb-2 text-muted  text-center">Frontend Developer</h6>
+    <p class="card-text">
+
+      <blockquote>
+        Fernando was essential to the team and contributed significantly to the success of our company. He ha ...
+        <a href="#" data-bs-toggle="modal" data-bs-target="#Suman-Kunwar">
+          read full
+        </a>
+      </blockquote>
+
+    </p>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="Suman-Kunwar" tabindex="-1" aria-labelledby="Suman-KunwarLabel" aria-hidden="true">
+  <div class="modal-dialog modal-fullscreen-sm-down modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="Suman-KunwarLabel"><a href="https://www.linkedin.com/in/sumn2u/" target="_blank">Suman Kunwar</a> · <small class="text-muted">Frontend Developer</small></h5>
+
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <img src="images/portraits/suman_kunwar.jpg" class="card-img-top avatar float-end ms-2 me-4 mt-2 mb-4" alt="Suman Kunwar">
+        <blockquote>
+          <p>Fernando was essential to the team and contributed significantly to the success of our company. He has a very strong work ethic and unparalleled analytical and problem-solving skills.</p>
+
+<p>Fernando is dedicated, self-motivated, methodical, and very capable. He had the vision to see the benefits and the passion to turn that into a competitive advantage for Dalia Research GmbH. I could always depend on him to set the best example as CTO at Dalia Research GmbH.</p>
+
+<p>Definitely someone I&#39;d want to have on my team.</p>
+
+        </blockquote>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+              </div>
+              <div class="col">
+                <div class="card testimonial">
+  <div class="text-center pt-3">
+    <img src="images/portraits/mike_itkin.jpg" class="card-img-top avatar" alt="Mike Itkin">
+  </div>
+  <div class="card-body">
+    <h5 class="card-title text-center"><a href="https://www.linkedin.com/in/mikeitkin/" target="_blank">Mike Itkin</a></h5>
+    <h6 class="card-subtitle mb-2 text-muted  text-center">Senior Technical Product Manager</h6>
+    <p class="card-text">
+
+      <blockquote>
+        Fernando is one of the most insightful and effective engineers and engineering leaders I have ever wo ...
+        <a href="#" data-bs-toggle="modal" data-bs-target="#Mike-Itkin">
+          read full
+        </a>
+      </blockquote>
+
+    </p>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="Mike-Itkin" tabindex="-1" aria-labelledby="Mike-ItkinLabel" aria-hidden="true">
+  <div class="modal-dialog modal-fullscreen-sm-down modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="Mike-ItkinLabel"><a href="https://www.linkedin.com/in/mikeitkin/" target="_blank">Mike Itkin</a> · <small class="text-muted">Senior Technical Product Manager</small></h5>
+
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <img src="images/portraits/mike_itkin.jpg" class="card-img-top avatar float-end ms-2 me-4 mt-2 mb-4" alt="Mike Itkin">
+        <blockquote>
+          <p>Fernando is one of the most insightful and effective engineers and engineering leaders I have ever worked with. He constantly strives to get the best possible understanding of the business needs of the product and then turns them into software at a breath-taking speed.</p>
+
+<p>A lot of people preach an &quot;agile&quot; or a &quot;lean&quot; approach to building products but Fernando actually lives those principles. He is always on the lookout for the simplest way to test an idea or a hypothesis and constantly pushes the people around him to do the same. But even when the time comes to make something complex and technically challenging he is there to translate the complicated requirements into easy-to-understand concepts.</p>
+
+<p>The data-reach high-load products and systems that Fernando built at Dalia over 5 years ago practically on his own continue to serve the company and being built upon which is a testament to his ability to create software architectures with a long-term scalability in mind.</p>
+
+<p>He is an incredibly patient listener and communicator and just an extremely nice colleague to be working with.</p>
+
+        </blockquote>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+              </div>
+              <div class="col">
+                <div class="card testimonial">
+  <div class="text-center pt-3">
+    <img src="images/portraits/niklas_anzinger.jpg" class="card-img-top avatar" alt="Niklas Anzinger">
+  </div>
+  <div class="card-body">
+    <h5 class="card-title text-center"><a href="https://www.linkedin.com/in/niklas-anzinger-50031653/" target="_blank">Niklas Anzinger</a></h5>
+    <h6 class="card-subtitle mb-2 text-muted  text-center">VP Strategy & Growth, Enterprise Solutions</h6>
+    <p class="card-text">
+
+      <blockquote>
+        Fernando has been a key mentor and inspiration for me as a co-founder of Dalia.
+
+There is few people  ...
+        <a href="#" data-bs-toggle="modal" data-bs-target="#Niklas-Anzinger">
+          read full
+        </a>
+      </blockquote>
+
+    </p>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="Niklas-Anzinger" tabindex="-1" aria-labelledby="Niklas-AnzingerLabel" aria-hidden="true">
+  <div class="modal-dialog modal-fullscreen-sm-down modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="Niklas-AnzingerLabel"><a href="https://www.linkedin.com/in/niklas-anzinger-50031653/" target="_blank">Niklas Anzinger</a> · <small class="text-muted">VP Strategy & Growth, Enterprise Solutions</small></h5>
+
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <img src="images/portraits/niklas_anzinger.jpg" class="card-img-top avatar float-end ms-2 me-4 mt-2 mb-4" alt="Niklas Anzinger">
+        <blockquote>
+          <p>Fernando has been a key mentor and inspiration for me as a co-founder of Dalia.</p>
+
+<p>There is few people that ever impressed me as much as Fernando - he is someone that radiates curiosity and uniquely combines playfulness and creativity, with extreme professionalism, detail-orientation and precision.</p>
+
+<p>He built an impressive technology infrastructure at Dalia from scratch that enabled us to reach millions of people in 100+ countries in real-time, which allowed us to disrupt the consumer insights world at a rapid pace.</p>
+
+<p>Fernando continuously manages to understand the business challenges that technology is helping solving, and he inspires a team pf 30+ engineers at Dalia to do amazing work.</p>
+
+<p>Fernando is a force of nature, not only with his intellect, but also his values and personality.</p>
+
+<p>True to his builder nature, we were building a wooden raft and riding it together on the Spree. Our time together set me up for a great career, and brought me unforgettable memories.</p>
+
+        </blockquote>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+              </div>
+          </div>
+        </div>
+        <div class="carousel-item ">
+          <div class="row mx-5 mb-5 g-2 row-cols-1 row-cols-md-3">
+              <div class="col">
+                <div class="card testimonial">
+  <div class="text-center pt-3">
+    <img src="images/portraits/jens_disselhoff.jpg" class="card-img-top avatar" alt="Jens Disselhoff">
+  </div>
+  <div class="card-body">
+    <h5 class="card-title text-center"><a href="https://www.linkedin.com/in/jdisselhoff/" target="_blank">Jens Disselhoff</a></h5>
+    <h6 class="card-subtitle mb-2 text-muted  text-center">Founder & Managing Director</h6>
+    <p class="card-text">
+
+      <blockquote>
+        Fernando has been one of the core factors for the success of our main product AppBounty. His technica ...
+        <a href="#" data-bs-toggle="modal" data-bs-target="#Jens-Disselhoff">
+          read full
+        </a>
+      </blockquote>
+
+    </p>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="Jens-Disselhoff" tabindex="-1" aria-labelledby="Jens-DisselhoffLabel" aria-hidden="true">
+  <div class="modal-dialog modal-fullscreen-sm-down modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="Jens-DisselhoffLabel"><a href="https://www.linkedin.com/in/jdisselhoff/" target="_blank">Jens Disselhoff</a> · <small class="text-muted">Founder & Managing Director</small></h5>
+
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <img src="images/portraits/jens_disselhoff.jpg" class="card-img-top avatar float-end ms-2 me-4 mt-2 mb-4" alt="Jens Disselhoff">
+        <blockquote>
+          <p>Fernando has been one of the core factors for the success of our main product AppBounty. His technical expertise in combination with his structured
+way of approaching new challenges makes him a one man army for Ruby development. Additionally, he is a fun guy to work with. I would always hire him again.</p>
+
+        </blockquote>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+              </div>
+              <div class="col">
+                <div class="card testimonial">
+  <div class="text-center pt-3">
+    <img src="images/portraits/raul_murciano.jpg" class="card-img-top avatar" alt="Raúl Murciano">
+  </div>
+  <div class="card-body">
+    <h5 class="card-title text-center"><a href="https://www.linkedin.com/in/raulmurciano/" target="_blank">Raúl Murciano</a></h5>
+    <h6 class="card-subtitle mb-2 text-muted  text-center">Senior Software Engineering Manager at Heroku</h6>
+    <p class="card-text">
+
+      <blockquote>
+        Fernando cares about his job like only a craftsman can do, combining an endless curiosity which makes ...
+        <a href="#" data-bs-toggle="modal" data-bs-target="#Raúl-Murciano">
+          read full
+        </a>
+      </blockquote>
+
+    </p>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="Raúl-Murciano" tabindex="-1" aria-labelledby="Raúl-MurcianoLabel" aria-hidden="true">
+  <div class="modal-dialog modal-fullscreen-sm-down modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="Raúl-MurcianoLabel"><a href="https://www.linkedin.com/in/raulmurciano/" target="_blank">Raúl Murciano</a> · <small class="text-muted">Senior Software Engineering Manager at Heroku</small></h5>
+
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <img src="images/portraits/raul_murciano.jpg" class="card-img-top avatar float-end ms-2 me-4 mt-2 mb-4" alt="Raúl Murciano">
+        <blockquote>
+          <p>Fernando cares about his job like only a craftsman can do, combining an endless curiosity which makes him a quick learner with a
+pragmatic point of view to achieve results quickly. In addition he is a great team player and an extraordinary person to have around.</p>
+
+        </blockquote>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+              </div>
+              <div class="col">
+                <div class="card testimonial">
+  <div class="text-center pt-3">
+    <img src="images/portraits/fernando_blat.jpg" class="card-img-top avatar" alt="Fernando Blat">
+  </div>
+  <div class="card-body">
+    <h5 class="card-title text-center"><a href="https://www.linkedin.com/in/fernando-blat-351872a9/" target="_blank">Fernando Blat</a></h5>
+    <h6 class="card-subtitle mb-2 text-muted  text-center">Co-founder and CTO at Populate</h6>
+    <p class="card-text">
+
+      <blockquote>
+        The truth is that meeting and working with Fernando has been a pleasant surprise: He arrived in to La ...
+        <a href="#" data-bs-toggle="modal" data-bs-target="#Fernando-Blat">
+          read full
+        </a>
+      </blockquote>
+
+    </p>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="Fernando-Blat" tabindex="-1" aria-labelledby="Fernando-BlatLabel" aria-hidden="true">
+  <div class="modal-dialog modal-fullscreen-sm-down modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="Fernando-BlatLabel"><a href="https://www.linkedin.com/in/fernando-blat-351872a9/" target="_blank">Fernando Blat</a> · <small class="text-muted">Co-founder and CTO at Populate</small></h5>
+
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <img src="images/portraits/fernando_blat.jpg" class="card-img-top avatar float-end ms-2 me-4 mt-2 mb-4" alt="Fernando Blat">
+        <blockquote>
+          <p>The truth is that meeting and working with Fernando has been a pleasant surprise: He arrived in to La Coctelera Team because he
+wanted to learn and he was excited with the project, and after a few months he turned into a vital piece of the team, he has helped us to carry out tasks and really complex implementations, which have shown that this is a great professional and a wonderful person.</p>
+
+        </blockquote>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+              </div>
+          </div>
+        </div>
+        <div class="carousel-item ">
+          <div class="row mx-5 mb-5 g-2 row-cols-1 row-cols-md-3">
+              <div class="col">
+                <div class="card testimonial">
+  <div class="text-center pt-3">
+    <img src="images/portraits/jaime_iniesta.jpg" class="card-img-top avatar" alt="Jaime Iniesta">
+  </div>
+  <div class="card-body">
+    <h5 class="card-title text-center"><a href="https://www.linkedin.com/in/jaimeiniesta/" target="_blank">Jaime Iniesta</a></h5>
+    <h6 class="card-subtitle mb-2 text-muted  text-center">CTO at Rocket Validator</h6>
+    <p class="card-text">
+
+      <blockquote>
+        Fernando is a happy guy, who is always exploring new ways of doing things. It's always worth working  ...
+        <a href="#" data-bs-toggle="modal" data-bs-target="#Jaime-Iniesta">
+          read full
+        </a>
+      </blockquote>
+
+    </p>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="Jaime-Iniesta" tabindex="-1" aria-labelledby="Jaime-IniestaLabel" aria-hidden="true">
+  <div class="modal-dialog modal-fullscreen-sm-down modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="Jaime-IniestaLabel"><a href="https://www.linkedin.com/in/jaimeiniesta/" target="_blank">Jaime Iniesta</a> · <small class="text-muted">CTO at Rocket Validator</small></h5>
+
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <img src="images/portraits/jaime_iniesta.jpg" class="card-img-top avatar float-end ms-2 me-4 mt-2 mb-4" alt="Jaime Iniesta">
+        <blockquote>
+          <p>Fernando is a happy guy, who is always exploring new ways of doing things. It&#39;s always worth working with him on a team.</p>
+
+        </blockquote>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+              </div>
+              <div class="col">
+                <div class="card testimonial">
+  <div class="text-center pt-3">
+    <img src="images/portraits/javier_poveda.jpg" class="card-img-top avatar" alt="Javier Poveda">
+  </div>
+  <div class="card-body">
+    <h5 class="card-title text-center"><a href="https://www.linkedin.com/in/javierpoveda/" target="_blank">Javier Poveda</a></h5>
+    <h6 class="card-subtitle mb-2 text-muted  text-center">Marketing & CX expert</h6>
+    <p class="card-text">
+
+      <blockquote>
+        Fernando is a highly talented and professional analyst, developer and linux system administrator. He  ...
+        <a href="#" data-bs-toggle="modal" data-bs-target="#Javier-Poveda">
+          read full
+        </a>
+      </blockquote>
+
+    </p>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="Javier-Poveda" tabindex="-1" aria-labelledby="Javier-PovedaLabel" aria-hidden="true">
+  <div class="modal-dialog modal-fullscreen-sm-down modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="Javier-PovedaLabel"><a href="https://www.linkedin.com/in/javierpoveda/" target="_blank">Javier Poveda</a> · <small class="text-muted">Marketing & CX expert</small></h5>
+
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <img src="images/portraits/javier_poveda.jpg" class="card-img-top avatar float-end ms-2 me-4 mt-2 mb-4" alt="Javier Poveda">
+        <blockquote>
+          <p>Fernando is a highly talented and professional analyst, developer and linux system administrator. He is always looking for the best way to accomplish specifications and deadlines,
+and it is a pleasure to have him in our development team. He has worked successfully for Grupo Planeta developing critical projects.</p>
+
+        </blockquote>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+              </div>
+              <div class="col">
+                <div class="card testimonial">
+  <div class="text-center pt-3">
+    <img src="images/portraits/francisco_munoz.jpg" class="card-img-top avatar" alt="Francisco Muñoz">
+  </div>
+  <div class="card-body">
+    <h5 class="card-title text-center"><a href="https://www.linkedin.com/in/munozbosch" target="_blank">Francisco Muñoz</a></h5>
+    <h6 class="card-subtitle mb-2 text-muted  text-center">Chief Digitalisation Officer at INPACS GmbH</h6>
+    <p class="card-text">
+
+      <blockquote>
+        I've had the opportunity and the privilege of working with Fernando on
+several projects: Ceac,
+Vitra  ...
+        <a href="#" data-bs-toggle="modal" data-bs-target="#Francisco-Muñoz">
+          read full
+        </a>
+      </blockquote>
+
+    </p>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="Francisco-Muñoz" tabindex="-1" aria-labelledby="Francisco-MuñozLabel" aria-hidden="true">
+  <div class="modal-dialog modal-fullscreen-sm-down modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="Francisco-MuñozLabel"><a href="https://www.linkedin.com/in/munozbosch" target="_blank">Francisco Muñoz</a> · <small class="text-muted">Chief Digitalisation Officer at INPACS GmbH</small></h5>
+
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <img src="images/portraits/francisco_munoz.jpg" class="card-img-top avatar float-end ms-2 me-4 mt-2 mb-4" alt="Francisco Muñoz">
+        <blockquote>
+          <p>I&#39;ve had the opportunity and the privilege of working with Fernando on
+several projects: Ceac,
+Vitra and AdialOffice. On any of it he has been a key piece for the success
+of the project thanks to his involvement and commitment with each project, his
+technical skills for development, his contributions for improve it, and his
+continuous concern with the satisfaction of the final user once the project
+is ongoing.</p>
+
+        </blockquote>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+              </div>
+          </div>
+        </div>
+        <div class="carousel-item ">
+          <div class="row mx-5 mb-5 g-2 row-cols-1 row-cols-md-3">
+              <div class="col">
+                <div class="card testimonial">
+  <div class="text-center pt-3">
+    <img src="images/portraits/markus_knoke.jpg" class="card-img-top avatar" alt="Markus Knoke">
+  </div>
+  <div class="card-body">
+    <h5 class="card-title text-center"><a href="http://www.linkedin.com/pub/markus-knoke/0/140/a54" target="_blank">Markus Knoke</a></h5>
+    <h6 class="card-subtitle mb-2 text-muted  text-center">CTO at Fyber</h6>
+    <p class="card-text">
+
+      <blockquote>
+        One of the best things end of 2010 was Fernando joining to work with us
+for a few months - on a profe ...
+        <a href="#" data-bs-toggle="modal" data-bs-target="#Markus-Knoke">
+          read full
+        </a>
+      </blockquote>
+
+    </p>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="Markus-Knoke" tabindex="-1" aria-labelledby="Markus-KnokeLabel" aria-hidden="true">
+  <div class="modal-dialog modal-fullscreen-sm-down modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="Markus-KnokeLabel"><a href="http://www.linkedin.com/pub/markus-knoke/0/140/a54" target="_blank">Markus Knoke</a> · <small class="text-muted">CTO at Fyber</small></h5>
+
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <img src="images/portraits/markus_knoke.jpg" class="card-img-top avatar float-end ms-2 me-4 mt-2 mb-4" alt="Markus Knoke">
+        <blockquote>
+          <p>One of the best things end of 2010 was Fernando joining to work with us
+for a few months - on a professional level he immediately provided great value
+to our team, on a personal level he was a great guy to have on the team. We&#39;ll
+miss him lots and would recommend him to any future employer.</p>
+
+        </blockquote>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+              </div>
+          </div>
+        </div>
+    </div>
+
+    <button class="carousel-control-prev" type="button" data-bs-target="#testimonials-carousel" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#testimonials-carousel" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+  </div>
+</div>
+
+
+        <hr class="col-3 col-md-2 mt-5">
+
+        <h2>Profiles</h2>
+        <p>Know more about me checking out my other profiles</p>
+        <ul class="icon-list">
+            <li><a href="https://stackoverflow.com/users/316700/fguillen?tab=profile">Stack Overflow</a></li>
+            <li><a href="https://github.com/fguillen">Git Hub</a></li>
+            <li><a href="https://www.linkedin.com/in/fguillen/">Linkedin</a></li>
+            <li><a href="https://arturitoproductions.itch.io/">Itch.io</a></li>
+        </ul>
+    </div>
+</div>
