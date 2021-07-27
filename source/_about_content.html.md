@@ -1,4 +1,4 @@
-  Full-stack web developer, primarily using Ruby on Rails and associated technologies.
+  Full-stack freelancer web developer, primarily using Ruby on Rails and associated technologies.
 
   I am a specialist in getting technology products off the ground, from design idea to fully functional application. Focus on production quality, but also on fast feedback loops: deliver fast and iterate. On this role I have worked for start-ups, big companies and also on personal entrepreneurial projects. As an "individual contributor" or as part of a small or large engineering team, as a senior developer or leading architecture decisions.
 

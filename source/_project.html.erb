@@ -13,9 +13,9 @@
 
             <% if project.quotes %>
               <% project.quotes.each do |quote| %>
-                <blockquote class="blockquote px-xxl-5">
+                <blockquote class="px-xxl-5">
                   <%= markdown(quote.text) %>
-                  <footer class="blockquote-footer">
+                  <footer>
                     <% if quote.author.link %>
                       <a href="<%= quote.author.link %>" target="_blank"><%= quote.author.name %></a>, <%= quote.author.description %>.
                     <% else %>
