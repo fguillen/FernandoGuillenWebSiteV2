@@ -1,7 +1,7 @@
 <div class="row mb-1">
   <div class="col">
 
-    <div class="card project-card">
+    <div id="<%= project.name.gsub(/\W/, "-") %>" class="card project-card">
       <div class="row g-0">
         <div class="col-md-4">
           <%= image_tag "/images/#{project_kind}s/#{project.image}", class:"image-project" %>
