@@ -1,7 +1,6 @@
 ---
 
 
-
 - name: Playcocola, The Playtesting Platform the Video Game Indie Community
   image: playcocola.png
   text: |-
@@ -148,6 +147,32 @@
     code: https://github.com/fguillen/CountryCodesConquest
     link: http://fguillen.github.io/CountryCodesConquest/
 
+- name: Transmission API, Small ruby wrapper for the Transmission RPC API
+  image: transmission_api.png
+  text: |-
+    Very simple Ruby Gem to communicate with the Transmission API.
+  details:
+    status: Production Version
+    dates: '2014'
+    client: Open Source
+    responsibilities: Ruby Developer
+    participation_as: Product Owner, Developer and Maintainer
+    technology: Ruby
+    code: https://github.com/fguillen/TransmissionApi
+
+- name: Log Book, Ruby on Rails, Automatically keeping record of all Model Changes
+  image: log_book.png
+  text: |-
+    Active Model integration mechanism to store changes on your Models.
+  details:
+    status: Production Version
+    dates: '2014-2021'
+    client: Open Source
+    responsibilities: Ruby Developer
+    participation_as: Product Owner, Developer and Maintainer
+    technology: Ruby
+    code: https://github.com/fguillen/LogBook
+
 - name: Style Palette, The simplest way to Stylize words in Ruby on Rails
   image: style_palette.png
   text: |-
@@ -240,6 +265,22 @@
     participation_as: Product Owner, Developer and Maintainer
     technology: Ruby, EventMachine Web Sockets, BackBoneJS
     code: https://github.com/fguillen/AnimalChat
+
+
+- name: Sweety Backy, Backups made wow!-simple
+  image: sweety_backy.png
+  text: |-
+    Simple mechanism to configure and execute backups of folders and MySQL DBs and store them in local folder or S3 bucket.
+  details:
+    status: Production Version
+    dates: '2011-2020'
+    client: Open Source
+    responsibilities: Ruby Developer
+    participation_as: Product Owner, Developer and Maintainer
+    technology: Ruby
+    code: https://github.com/fguillen/SweetyBacky
+    link: https://www.ruby-toolbox.com/projects/sweety_backy
+
 
 - name: Space Suckers Chronicles, multiplayer permanent universe text based game
   image: s2c_pantallas_max.jpg
