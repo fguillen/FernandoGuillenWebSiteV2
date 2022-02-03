@@ -1,6 +1,7 @@
 ---
 
 
+
 - name: Playcocola, The Playtesting Platform the Video Game Indie Community
   image: playcocola.png
   text: |-
@@ -215,6 +216,20 @@
     technology: Ruby on Rails
     code: https://github.com/fguillen/RubioDeMarzo
     link: http://rubiodemarzo.com/
+
+- name: Booky Sitter, The Playtesting Platform the Video Game Indie Community
+  image: booky_sitter.png
+  text: |-
+    Online shop multi client management system. Template system.
+  details:
+    status: Production Version
+    dates: '2012-2018'
+    client: Escrito a Lapiz Editorial
+    responsibilities: Front Developer, Back Developer, Deployment, DevOps
+    participation_as: Product Owner, Developer and Maintainer
+    technology: Ruby on Rails
+    code: https://github.com/fguillen/BookySitter (Private)
+    link: http://tienda.escritoalapiz.es/
 
 
 - name: MDMagick, the simplest MarkDown WYSIWYG for html input elements
