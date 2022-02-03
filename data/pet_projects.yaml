@@ -1,12 +1,26 @@
 ---
 
-
+- name: My Perfect Weekend, Web site to share how your perfect weekend looks like
+  image: my_perfect_weekend.png
+  text: |-
+    Artistic exercise to experiment and create some muscles with P5js.
+  details:
+    status: Production Version
+    dates: '2021'
+    client: N/A
+    responsibilities: Front Developer, Back Developer, Deployment
+    participation_as: Product Owner, Designer, Developer and Maintainer
+    technology: Ruby on Rails
+    code: https://github.com/fguillen/MyPerfectWeekend
+    link: https://myperfectweekend.club/
 
 
 - name: Geometric Sounds, Overlapping metronome
   image: geometric_sounds.png
   text: |-
-    Artistic exercise to experiment and create some muscles with P5js.
+    We all have these good moments in Berlin, on these places that we have made ours because they really suite our personality or resonates with the mood we are. Berlin is such a kaleidoscope of discoveries.
+
+    If you can imagine in detail your perfect weekend in Berlin, how it would be? Where will you go for breakfast and just after that?
   details:
     status: Production Version
     dates: '2021'
