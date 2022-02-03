@@ -1,5 +1,21 @@
 ---
 
+
+
+- name: Playcocola, The Playtesting Platform the Video Game Indie Community
+  image: playcocola.png
+  text: |-
+    The online playtesting platform specially made for indie developers. It is simple, easy to use and inexpensive.
+  details:
+    status: Early Access
+    dates: '2021-2022'
+    client: N/A
+    responsibilities: Front Developer, Back Developer, Deployment, DevOps
+    participation_as: Product Owner, Developer, Marketing, Sales and Maintainer
+    technology: Ruby on Rails, JS
+    code: https://github.com/fguillen/PlaycocolaBackend (Private)
+    link: https://land.playcocola.com/
+
 - name: Books Brook, Book sharing paid service specialized in high quality graphic novels
   image: books_brook.png
   text: |-
@@ -23,7 +39,7 @@
     You don't need to visit all these pages to see what is the actual value of the
     numbers you are interested on, you can have all of them in one single page.
   details:
-    status: Early access
+    status: Early Access
     dates: '2021'
     client: N/A
     responsibilities: Front Developer, Back Developer, Deployment, DevOps
@@ -131,6 +147,50 @@
     technology: EmberJS
     code: https://github.com/fguillen/CountryCodesConquest
     link: http://fguillen.github.io/CountryCodesConquest/
+
+- name: Style Palette, The simplest way to Stylize words in Ruby on Rails
+  image: style_palette.png
+  text: |-
+    When you have a bunch of tags and you want to render them in a colorize way you can implement your own colorize system or you can use StylePalette.
+
+    StylePalette offers a json based configured color collections that can be associate with words.
+  details:
+    status: Production Version
+    dates: '2013'
+    client: Open Source
+    responsibilities: Ruby Developer
+    participation_as: Product Owner, Developer and Maintainer
+    technology: Ruby
+    code: https://github.com/fguillen/StylePalette
+
+- name: Cineto.tv, Self-hosted Torrent Movies Management System
+  image: cineto_tv.png
+  text: |-
+    Manage all your movie torrents on the web. Stream them directly from the
+    browser, add subtitles, share them with friends.
+  details:
+    status: Beta Version
+    dates: '2013'
+    client: N/A
+    responsibilities: Front Developer, Back Developer, Deployment, DevOps
+    participation_as: Product Owner, Developer and Maintainer
+    technology: Ruby on Rails
+    code: https://github.com/fguillen/Cineto
+
+- name: Rubio de Marzo.com, AdHoc minimal CMS
+  image: rubio_de_marzo.png
+  text: |-
+    Super simple and minimal CMS. Easy to manage and upload new content.
+  details:
+    status: Production Version
+    dates: '2013'
+    client: Rubio de Marzo
+    responsibilities: Landing Page Designer and Developer
+    participation_as: Product Owner, Developer and Maintainer
+    technology: Ruby on Rails
+    code: https://github.com/fguillen/RubioDeMarzo
+    link: http://rubiodemarzo.com/
+
 
 - name: MDMagick, the simplest MarkDown WYSIWYG for html input elements
   image: mdmagick_pantallas_max.jpg
