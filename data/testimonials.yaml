@@ -1,3 +1,20 @@
+- name: Nikita Skalkin
+  position: Senior Software Engineer
+  image: nikita_skalkin.jpg
+  link: https://www.linkedin.com/in/nickskalkin/
+  text: |-
+    Right now I was doing my exit interview at Latana (Dalia Research), and the interviewer asked me something like,
+    "What was the best thing about your time at Latana?". I said I was very grateful to have had the opportunity to work with Fernando.
+
+    Fernando is a great engineer who managed to build a great architecture that could handle thousands of requests,
+    huge data volumes, and multiple development teams working in parallel. Fernando has a good balance between speed and quality of development. During my work in Latana, Fernando got several projects up and running in a very short time, all thanks to his intelligence and his ability to find low hanging fruits. It's important to mention, that he was equally (or even more) contributing to the codebase, despite him being a CTO of the company. I remember how he rewrote one of the most important components of the system over weekend in order to optimise it :)
+
+    But more than his hard skills, I'm inspired by the way Fernando cares and respects the people he works with. Fernando felt when I needed
+     help and never refused it, even if it interfered with his priorities. Another of Fernando's exceptional traits is appreciating the work of others.
+     Fernando always noticed the achievements of others and publicly expressed his appreciation for them.
+
+    I hope to work with you again!
+
 - name: Alessandro Caporrini
   position: Senior Software Engineer
   image: alessandro_caporrini.jpg
