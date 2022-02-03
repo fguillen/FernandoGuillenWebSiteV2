@@ -1,5 +1,21 @@
 ---
 
+- name: Scrap Stats, Monitor and keep track of any number on the internet
+  image: scrap_stats.png
+  text: |-
+    With Scrap Stats you can easily start tracking these numbers you care about.
+    You don't need to visit all these pages to see what is the actual value of the
+    numbers you are interested on, you can have all of them in one single page.
+  details:
+    status: Early access
+    dates: '2021'
+    client: N/A
+    responsibilities: Front Developer, Back Developer, Deployment, DevOps
+    participation_as: Product Owner, Developer and Maintainer
+    technology: Ruby on Rails
+    code: https://github.com/fguillen/ScrapStatsV2
+    link: https://land.scrapstats.com/
+
 - name: My Perfect Weekend, Web site to share how your perfect weekend looks like
   image: my_perfect_weekend.png
   text: |-
