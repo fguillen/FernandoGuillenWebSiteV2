@@ -1,5 +1,21 @@
 ---
 
+- name: Books Brook, Book sharing paid service specialized in high quality graphic novels
+  image: books_brook.png
+  text: |-
+    Receive a different award winner graphic novel at home every month. Replace with a different one
+    when you have finished reading it.
+  details:
+    status: Product Market Fit phase
+    dates: '2021'
+    client: N/A
+    responsibilities: Landing Page Designer and Developer
+    participation_as: Product Owner, Marketing, Designer, Sales
+    technology: HTML/CSS, Ruby
+    code: https://github.com/fguillen/BooksBrook_LandingPage
+    link: https://booksbrook.com/
+
+
 - name: Scrap Stats, Monitor and keep track of any number on the internet
   image: scrap_stats.png
   text: |-
