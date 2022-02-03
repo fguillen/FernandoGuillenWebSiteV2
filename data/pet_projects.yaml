@@ -217,6 +217,42 @@
     code: https://github.com/fguillen/RubioDeMarzo
     link: http://rubiodemarzo.com/
 
+- name: Time Window Drop Collector, Very Light Counter Storage System
+  image: time_window_drop_collector.png
+  text: |-
+    System to keep record of an amount for a concrete duration.
+    With Time Window Drop Collector you can define a maximun time you want to keep the record.
+    You can also keep record for different keys.
+
+    Backend integrations for: Memcache, Redis, Rails
+  details:
+    status: Production Version
+    dates: '2012-2017'
+    client: Open Source
+    responsibilities: Ruby Developer
+    participation_as: Product Owner, Developer and Maintainer
+    technology: Ruby
+    code: https://github.com/fguillen/TimeWindowDropCollector
+    link: https://rubygems.org/gems/time_window_drop_collector
+
+- name: SimpleCov Rcov, SimpleCov formatter to generate a simple index.html Rcov style
+  image: simple_cov.png
+  text: |-
+    Rcov style formatter for the ruby 1.9+ coverage gem: SimpleCov.
+
+    The target of this formatter is to cheat on Hudson so I can use the Ruby metrics plugin with SimpleCov.
+
+    So if you are looking some kind of workaround to integrate SimpleCov with your Hudson + Ruby metrics plugin this is a beginning.
+  details:
+    status: Production Version
+    dates: '2012'
+    client: Open Source
+    responsibilities: Ruby Developer
+    participation_as: Product Owner, Developer and Maintainer
+    technology: Ruby
+    code: https://github.com/fguillen/simplecov-rcov
+    link: https://rubygems.org/gems/simplecov-rcov/
+
 - name: Booky Sitter, The Playtesting Platform the Video Game Indie Community
   image: booky_sitter.png
   text: |-
@@ -241,7 +277,7 @@
   details:
     status: Beta Version
     dates: '2012'
-    client: Open Source community
+    client: Open Source
     responsibilities: JavaScript Developer
     participation_as: Product Owner, Developer and Maintainer
     technology: JavaScript, jQuery
@@ -315,7 +351,7 @@
   details:
     status: Alpha Version
     dates: '2011'
-    client: Open Source community
+    client: Open Source
     responsibilities: Ruby Developer
     participation_as: Product Owner, Developer and Maintainer
     technology: Ruby, Sinatra
@@ -364,7 +400,7 @@
   details:
     status: Beta Version
     dates: '2011'
-    client: Open Source community
+    client: Open Source
     responsibilities: CSS3 development
     participation_as: Product Owner, Developer and Maintainer
     technology: CSS3
@@ -382,7 +418,7 @@
   details:
     status: Beta Version
     dates: '2011'
-    client: Open Source community
+    client: Open Source
     responsibilities: JS Developer
     participation_as: Product Owner, Developer and Maintainer
     technology: JavaScript, jQuery
@@ -399,7 +435,7 @@
   details:
     status: Production Version
     dates: '2011'
-    client: Open Source community
+    client: Open Source
     responsibilities: Ruby Developer
     participation_as: Product Owner, Developer and Maintainer
     technology: Ruby
@@ -415,7 +451,7 @@
   details:
     status: Production Version
     dates: 2010-2011
-    client: Open Source community
+    client: Open Source
     responsibilities: Ruby Developer
     participation_as: Product Owner, Developer and Maintainer
     technology: Ruby
@@ -430,7 +466,7 @@
   details:
     status: Production Version
     dates: '2011'
-    client: Open Source community
+    client: Open Source
     responsibilities: Ruby Developer
     participation_as: Product Owner, Developer and Maintainer
     technology: Ruby, Sinatra
@@ -447,7 +483,7 @@
   details:
     status: Production Version
     dates: '2010'
-    client: Open Source community
+    client: Open Source
     responsibilities: Idea and development
     participation_as: Product Owner, Developer and Maintainer
     technology: Ruby, Ruby on Rails
@@ -462,7 +498,7 @@
   details:
     status: Experiment Version
     dates: '2010'
-    client: Open Source community
+    client: Open Source
     responsibilities: Idea and development
     participation_as: Product Owner, Developer and Maintainer
     technology: Ruby, Sinatra, Dropbox Api, OAuth
@@ -475,7 +511,7 @@
   details:
     status: Beta Version
     dates: '2010'
-    client: Open Source community
+    client: Open Source
     responsibilities: Idea and development
     participation_as: Product Owner, Developer and Maintainer
     technology: Ruby
@@ -490,7 +526,7 @@
   details:
     status: Production Version
     dates: '2010'
-    client: Open Source community
+    client: Open Source
     responsibilities: Idea and development
     participation_as: Product Owner, Developer and Maintainer
     technology: Ruby
@@ -507,7 +543,7 @@
   details:
     status: Experiment/Production Version
     dates: '2010'
-    client: Open Source community
+    client: Open Source
     responsibilities: Idea and development
     participation_as: Product Owner, Developer and Maintainer
     technology: Ruby on Rails
@@ -540,7 +576,7 @@
   details:
     status: Experiment Version
     dates: '2010'
-    client: Open Source community
+    client: Open Source
     responsibilities: Arduino programming. Ruby desktop application programming. WebService
       programming
     participation_as: Product Owner
@@ -556,7 +592,7 @@
   details:
     status: Production Version
     dates: '2010'
-    client: Open Source community
+    client: Open Source
     responsibilities: iPhone development. Apple Bureaucracy Fighter :)
     participation_as: Product Owner, Developer and Maintainer
     technology: Objective-C, Cocoa Touch Framework
@@ -571,7 +607,7 @@
   details:
     status: Beta Version
     dates: '2010'
-    client: Open Source community
+    client: Open Source
     responsibilities: Java Script development
     participation_as: Product Owner, Developer and Maintainer
     technology: jQuery, JavaScript
@@ -591,7 +627,7 @@
   details:
     status: Experiment Version
     dates: '2009'
-    client: Open Source community
+    client: Open Source
     responsibilities: Enjoy a whole weekend of hacking among friends
     participation_as: Web Developer
     technology: Ruby on Rails
@@ -648,7 +684,7 @@
   details:
     status: Experiment Version
     dates: '2009'
-    client: Open Source community
+    client: Open Source
     responsibilities: Front and back development. Deployment. Systems maintenance
     participation_as: Product Owner, Developer and Maintainer
     technology: Ruby, Sinatra, ScrAPI
@@ -665,7 +701,7 @@
   details:
     status: Experiment Version
     dates: '2009'
-    client: Open Source community
+    client: Open Source
     responsibilities: Illustrations, Ruby coding
     participation_as: Product Owner, Developer and Maintainer
     technology: Ruby, Gosu
@@ -680,7 +716,7 @@
     Geo location, Google Maps, phone geolocation integration.
   details:
     dates: '2008'
-    client: Open Source community
+    client: Open Source
     responsibilities: Design. Front Developer, Back Developer. Deployment. Systems Maintenance
     participation_as: Product Owner, Developer and Maintainer
     technology: Ruby on Rails
@@ -696,7 +732,7 @@
     The whole application need an improvement, from the algorithm until the test coverture.
   details:
     dates: '2008'
-    client: Open Source community
+    client: Open Source
     responsibilities: Front and back development. Deployment. Systems maintenance
     participation_as: Product Owner, Developer and Maintainer
     technology: Ruby on Rails
