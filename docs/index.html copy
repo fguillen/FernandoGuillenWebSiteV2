@@ -48,6 +48,61 @@
               <div class="col">
                 <div class="card testimonial">
   <div class="text-center pt-3">
+    <img src="images/portraits/nikita_skalkin.jpg" class="card-img-top avatar" alt="Nikita Skalkin">
+  </div>
+  <div class="card-body">
+    <h5 class="card-title text-center"><a href="https://www.linkedin.com/in/nickskalkin/" target="_blank">Nikita Skalkin</a></h5>
+    <h6 class="card-subtitle mb-2 text-muted  text-center">Senior Software Engineer</h6>
+    <p class="card-text">
+
+      <blockquote>
+        Right now I was doing my exit interview at Latana (Dalia Research), and the interviewer asked me some ...
+        <a href="#" data-bs-toggle="modal" data-bs-target="#Nikita-Skalkin">
+          read full
+        </a>
+      </blockquote>
+
+    </p>
+  </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="Nikita-Skalkin" tabindex="-1" aria-labelledby="Nikita-SkalkinLabel" aria-hidden="true">
+  <div class="modal-dialog modal-fullscreen-sm-down modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="Nikita-SkalkinLabel"><a href="https://www.linkedin.com/in/nickskalkin/" target="_blank">Nikita Skalkin</a> · <small class="text-muted">Senior Software Engineer</small></h5>
+
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <img src="images/portraits/nikita_skalkin.jpg" class="card-img-top avatar float-end ms-2 me-4 mt-2 mb-4" alt="Nikita Skalkin">
+        <blockquote>
+          <p>Right now I was doing my exit interview at Latana (Dalia Research), and the interviewer asked me something like,
+&quot;What was the best thing about your time at Latana?&quot;. I said I was very grateful to have had the opportunity to work with Fernando.</p>
+
+<p>Fernando is a great engineer who managed to build a great architecture that could handle thousands of requests,
+huge data volumes, and multiple development teams working in parallel. Fernando has a good balance between speed and quality of development. During my work in Latana, Fernando got several projects up and running in a very short time, all thanks to his intelligence and his ability to find low hanging fruits. It&#39;s important to mention, that he was equally (or even more) contributing to the codebase, despite him being a CTO of the company. I remember how he rewrote one of the most important components of the system over weekend in order to optimise it :)</p>
+
+<p>But more than his hard skills, I&#39;m inspired by the way Fernando cares and respects the people he works with. Fernando felt when I needed
+ help and never refused it, even if it interfered with his priorities. Another of Fernando&#39;s exceptional traits is appreciating the work of others.
+ Fernando always noticed the achievements of others and publicly expressed his appreciation for them.</p>
+
+<p>I hope to work with you again!</p>
+
+        </blockquote>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+              </div>
+              <div class="col">
+                <div class="card testimonial">
+  <div class="text-center pt-3">
     <img src="images/portraits/alessandro_caporrini.jpg" class="card-img-top avatar" alt="Alessandro Caporrini">
   </div>
   <div class="card-body">
@@ -155,6 +210,10 @@ He has very good  ...
 </div>
 
               </div>
+          </div>
+        </div>
+        <div class="carousel-item ">
+          <div class="row mx-5 mb-5 g-2 row-cols-1 row-cols-md-3">
               <div class="col">
                 <div class="card testimonial">
   <div class="text-center pt-3">
@@ -208,10 +267,6 @@ He has very good  ...
 </div>
 
               </div>
-          </div>
-        </div>
-        <div class="carousel-item ">
-          <div class="row mx-5 mb-5 g-2 row-cols-1 row-cols-md-3">
               <div class="col">
                 <div class="card testimonial">
   <div class="text-center pt-3">
@@ -312,6 +367,10 @@ He has very good  ...
 </div>
 
               </div>
+          </div>
+        </div>
+        <div class="carousel-item ">
+          <div class="row mx-5 mb-5 g-2 row-cols-1 row-cols-md-3">
               <div class="col">
                 <div class="card testimonial">
   <div class="text-center pt-3">
@@ -369,10 +428,6 @@ There is few people  ...
 </div>
 
               </div>
-          </div>
-        </div>
-        <div class="carousel-item ">
-          <div class="row mx-5 mb-5 g-2 row-cols-1 row-cols-md-3">
               <div class="col">
                 <div class="card testimonial">
   <div class="text-center pt-3">
@@ -465,6 +520,10 @@ pragmatic point of view to achieve results quickly. In addition he is a great te
 </div>
 
               </div>
+          </div>
+        </div>
+        <div class="carousel-item ">
+          <div class="row mx-5 mb-5 g-2 row-cols-1 row-cols-md-3">
               <div class="col">
                 <div class="card testimonial">
   <div class="text-center pt-3">
@@ -511,10 +570,6 @@ wanted to learn and he was excited with the project, and after a few months he t
 </div>
 
               </div>
-          </div>
-        </div>
-        <div class="carousel-item ">
-          <div class="row mx-5 mb-5 g-2 row-cols-1 row-cols-md-3">
               <div class="col">
                 <div class="card testimonial">
   <div class="text-center pt-3">
@@ -606,6 +661,10 @@ and it is a pleasure to have him in our development team. He has worked successf
 </div>
 
               </div>
+          </div>
+        </div>
+        <div class="carousel-item ">
+          <div class="row mx-5 mb-5 g-2 row-cols-1 row-cols-md-3">
               <div class="col">
                 <div class="card testimonial">
   <div class="text-center pt-3">
@@ -659,10 +718,6 @@ is ongoing.</p>
 </div>
 
               </div>
-          </div>
-        </div>
-        <div class="carousel-item ">
-          <div class="row mx-5 mb-5 g-2 row-cols-1 row-cols-md-3">
               <div class="col">
                 <div class="card testimonial">
   <div class="text-center pt-3">
