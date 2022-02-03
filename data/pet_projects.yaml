@@ -1,6 +1,18 @@
 ---
 
-
+- name: Art-ificial Flower, Generative Art experimental project
+  image: art_ificial_flower.png
+  text: |-
+    Sometimes the only thing we need is to feel our uniqueness, how special we are, how difficult is to find someone exactly as you. This small creation will be born specially for you, it will be unique as you are.
+  details:
+    status: Production Version
+    dates: '2022'
+    client: Open Source
+    responsibilities: JS Developer
+    participation_as: Product Owner, Developer, Designer
+    technology: JS, P5js
+    code: https://github.com/fguillen/Art-ificialFlower
+    link: https://fguillen.github.io/Art-ificialFlower/
 
 - name: Playcocola, The Playtesting Platform the Video Game Indie Community
   image: playcocola.png
