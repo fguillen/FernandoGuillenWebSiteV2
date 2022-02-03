@@ -3,6 +3,21 @@
 
 
 
+- name: Geometric Sounds, Overlapping metronome
+  image: geometric_sounds.png
+  text: |-
+    Artistic exercise to experiment and create some muscles with P5js.
+  details:
+    status: Production Version
+    dates: '2021'
+    client: N/A
+    responsibilities: JS Generative Art Developer
+    participation_as: Product Owner, Developer and Maintainer
+    technology: JS, P5js
+    code: https://github.com/fguillen/GeometricSounds
+    link: https://fguillen.github.io/GeometricSounds/
+
+
 - name: Appreciations Billboard, simple App to deliver appreciation
   image: appreciations_billboard.png
   text: |-
@@ -23,6 +38,19 @@
     technology: Ruby on Rails
     code: https://github.com/fguillen/AppreciationsBillboard
 
+- name: Mini Graphite, Simple wrapper for Graphite and Statsd
+  image: mini_graphite.png
+  text: |-
+    TCP API wrapper to abstract your code from the connection to Graphite or Statsd backends.
+  details:
+    status: Production Version
+    dates: '2014-2019'
+    client: Open Source
+    responsibilities: Ruby Developers
+    participation_as: Product Owner, Developer and Maintainer
+    technology: Ruby
+    code: https://github.com/fguillen/MiniGraphite
+
 - name: Engage Meter, a real time way to connect with your audience
   image: engage_meter.jpg
   text: |-
@@ -36,7 +64,7 @@
     dates: '2018'
     client: N/A
     responsibilities: Front Developer, Back Developer, Deployment
-    participation_as: Project Manager, Developer and Maintainer
+    participation_as: Product Owner, Developer and Maintainer
     technology: Ruby on Rails
     code: https://github.com/fguillen/EngageMeter
 
@@ -53,7 +81,7 @@
     dates: '2016'
     client: N/A
     responsibilities: Front Developer
-    participation_as: Project Manager, Developer and Maintainer
+    participation_as: Product Owner, Developer and Maintainer
     technology: EmberJS
     code: https://github.com/fguillen/CountryCodesConquest
     link: http://fguillen.github.io/CountryCodesConquest/
@@ -69,7 +97,7 @@
     dates: '2012'
     client: Open Source community
     responsibilities: JavaScript Developer
-    participation_as: Project Manager, Developer and Maintainer
+    participation_as: Product Owner, Developer and Maintainer
     technology: JavaScript, jQuery
     link: https://fguillen.github.io/MDMagick/
     code: https://github.com/fguillen/MDMagick
@@ -86,7 +114,7 @@
     dates: '2012'
     client: N/A
     responsibilities: Front Developer
-    participation_as: Project Manager, Developer and Maintainer
+    participation_as: Product Owner, Developer and Maintainer
     technology: Ruby on Rails
     code: https://github.com/fguillen/DummyJavascriptEmulators
     link: https://fguillen.github.io/DummyJavascriptEmulators/
@@ -103,7 +131,7 @@
     dates: '2011'
     client: N/A
     responsibilities: Front Developer, Back Developer, Deployment
-    participation_as: Project Manager, Developer and Maintainer
+    participation_as: Product Owner, Developer and Maintainer
     technology: Ruby, EventMachine Web Sockets, BackBoneJS
     code: https://github.com/fguillen/AnimalChat
 
@@ -127,7 +155,7 @@
     dates: '2011'
     client: Open Source community
     responsibilities: Ruby Developer
-    participation_as: Project Manager, Developer and Maintainer
+    participation_as: Product Owner, Developer and Maintainer
     technology: Ruby, Sinatra
     code: https://github.com/fguillen/SpaceSuckersChronicles
 
@@ -146,7 +174,7 @@
     dates: '2011'
     client: N/A
     responsibilities: Ruby Developer
-    participation_as: Project Manager, Developer and Maintainer
+    participation_as: Product Owner, Developer and Maintainer
     technology: Ruby, Sinatra, Mustache, Ruby on Rails
 
 - name: Booky Sitter, a market place for independent publishers
@@ -164,7 +192,7 @@
     dates: 2010-2011
     client: N/A
     responsibilities: Ruby Developer
-    participation_as: Project Manager, Developer and Maintainer
+    participation_as: Product Owner, Developer and Maintainer
     technology: Ruby, Liquid, Ruby on Rails
 
 - name: Computer Malfunction
@@ -176,7 +204,7 @@
     dates: '2011'
     client: Open Source community
     responsibilities: CSS3 development
-    participation_as: Project Manager, Developer and Maintainer
+    participation_as: Product Owner, Developer and Maintainer
     technology: CSS3
     link: https://fguillen.github.io/ComputerMalfunction/
     code: https://github.com/fguillen/ComputerMalfunction
@@ -194,7 +222,7 @@
     dates: '2011'
     client: Open Source community
     responsibilities: JS Developer
-    participation_as: Project Manager, Developer and Maintainer
+    participation_as: Product Owner, Developer and Maintainer
     technology: JavaScript, jQuery
     code: https://github.com/fguillen/TravellingMe
 
@@ -211,7 +239,7 @@
     dates: '2011'
     client: Open Source community
     responsibilities: Ruby Developer
-    participation_as: Project Manager, Developer and Maintainer
+    participation_as: Product Owner, Developer and Maintainer
     technology: Ruby
     code: https://github.com/fguillen/SweetyBacky
 
@@ -227,7 +255,7 @@
     dates: 2010-2011
     client: Open Source community
     responsibilities: Ruby Developer
-    participation_as: Project Manager, Developer and Maintainer
+    participation_as: Product Owner, Developer and Maintainer
     technology: Ruby
     code: https://github.com/fguillen/simplecov-rcov
 
@@ -242,7 +270,7 @@
     dates: '2011'
     client: Open Source community
     responsibilities: Ruby Developer
-    participation_as: Project Manager, Developer and Maintainer
+    participation_as: Product Owner, Developer and Maintainer
     technology: Ruby, Sinatra
     code: https://github.com/fguillen/ThimblClient
 
@@ -259,7 +287,7 @@
     dates: '2010'
     client: Open Source community
     responsibilities: Idea and development
-    participation_as: Project Manager, Developer and Maintainer
+    participation_as: Product Owner, Developer and Maintainer
     technology: Ruby, Ruby on Rails
     code: https://github.com/fguillen/LosOjosDeLaCiudad
 
@@ -274,7 +302,7 @@
     dates: '2010'
     client: Open Source community
     responsibilities: Idea and development
-    participation_as: Project Manager, Developer and Maintainer
+    participation_as: Product Owner, Developer and Maintainer
     technology: Ruby, Sinatra, Dropbox Api, OAuth
     code: https://github.com/fguillen/Vitreous
 
@@ -287,7 +315,7 @@
     dates: '2010'
     client: Open Source community
     responsibilities: Idea and development
-    participation_as: Project Manager, Developer and Maintainer
+    participation_as: Product Owner, Developer and Maintainer
     technology: Ruby
     code: https://github.com/fguillen/FibberMailman
 
@@ -302,7 +330,7 @@
     dates: '2010'
     client: Open Source community
     responsibilities: Idea and development
-    participation_as: Project Manager, Developer and Maintainer
+    participation_as: Product Owner, Developer and Maintainer
     technology: Ruby
     code: https://github.com/fguillen/DummyDropbox
 
@@ -319,7 +347,7 @@
     dates: '2010'
     client: Open Source community
     responsibilities: Idea and development
-    participation_as: Project Manager, Developer and Maintainer
+    participation_as: Product Owner, Developer and Maintainer
     technology: Ruby on Rails
     link: http://testsnauticos.fernandoguillen.info/
     code: https://github.com/fguillen/Testilia
@@ -335,7 +363,7 @@
     dates: '2010'
     client: me
     responsibilities: Idea, development and promotion
-    participation_as: Project Manager, Developer and Maintainer
+    participation_as: Product Owner, Developer and Maintainer
     technology: Ruby on Rails
     link: http://thekidsartgallery.com/
 
@@ -353,7 +381,7 @@
     client: Open Source community
     responsibilities: Arduino programming. Ruby desktop application programming. WebService
       programming
-    participation_as: Project Manager
+    participation_as: Product Owner
     technology: Arduino, Java, Ruby
     code: https://github.com/fguillen/ArduinoPhixterVisit
 
@@ -368,7 +396,7 @@
     dates: '2010'
     client: Open Source community
     responsibilities: iPhone development. Apple Bureaucracy Fighter :)
-    participation_as: Project Manager, Developer and Maintainer
+    participation_as: Product Owner, Developer and Maintainer
     technology: Objective-C, Cocoa Touch Framework
     code: https://github.com/fguillen/iPhoneVerbConjugations
 
@@ -383,7 +411,7 @@
     dates: '2010'
     client: Open Source community
     responsibilities: Java Script development
-    participation_as: Project Manager, Developer and Maintainer
+    participation_as: Product Owner, Developer and Maintainer
     technology: jQuery, JavaScript
     link: https://fguillen.github.io/FontParty/example/
     code: https://github.com/fguillen/FontParty
@@ -460,7 +488,7 @@
     dates: '2009'
     client: Open Source community
     responsibilities: Front and back development. Deployment. Systems maintenance
-    participation_as: Project Manager, Developer and Maintainer
+    participation_as: Product Owner, Developer and Maintainer
     technology: Ruby, Sinatra, ScrAPI
     code: Github repository of Verb Conjugations
 
@@ -477,7 +505,7 @@
     dates: '2009'
     client: Open Source community
     responsibilities: Illustrations, Ruby coding
-    participation_as: Project Manager, Developer and Maintainer
+    participation_as: Product Owner, Developer and Maintainer
     technology: Ruby, Gosu
     link: https://fguillen.github.io/OneOfZombies/web/
     code: https://github.com/fguillen/OneOfZombies
@@ -492,7 +520,7 @@
     dates: '2008'
     client: Open Source community
     responsibilities: Design. Front Developer, Back Developer. Deployment. Systems Maintenance
-    participation_as: Project Manager, Developer and Maintainer
+    participation_as: Product Owner, Developer and Maintainer
     technology: Ruby on Rails
     code: https://github.com/fguillen/GeoAlertas
 
@@ -508,7 +536,7 @@
     dates: '2008'
     client: Open Source community
     responsibilities: Front and back development. Deployment. Systems maintenance
-    participation_as: Project Manager, Developer and Maintainer
+    participation_as: Product Owner, Developer and Maintainer
     technology: Ruby on Rails
     code: https://github.com/fguillen/ThePhoneBaptizer
 
@@ -524,6 +552,6 @@
     dates: '2007'
     client: HolaPorQue
     responsibilities: Front Developer, Back Developer. Deployment. Systems Maintainer
-    participation_as: Project Manager, Developer and Maintainer
+    participation_as: Product Owner, Developer and Maintainer
     technology: Ruby on Rails
     code: https://github.com/fguillen/HolaPorQueOnlineStore

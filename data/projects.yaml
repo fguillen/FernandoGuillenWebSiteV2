@@ -261,7 +261,7 @@
       have always tried to keep things simple and as much operational as possible,
       not to everyone you can say the same.
     author:
-      name: Eduardo GarcÃ­a
+      name: Eduardo García
       description: IT Manager of the Casa del Libro's information unit
 - name: Juega tu Partido, Social Betting Web Platform.
   image: juega_tu_partido_max.jpg
@@ -315,7 +315,17 @@
       indexation and search engine. Setting up and managing production servers
     participation_as: Senior Developer
     technology: J2EE
-    link: www.enciclopediaespasa.com
+    link: www.enciclopediaespasa.com (Closed)
+  quotes:
+    - text: Fernando is a highly talented and professional analyst, developer and linux system administrator.
+        He is always looking for the best way to accomplish specifications and deadlines, and it is a
+        pleasure to have him in our development team. He has worked succesfully for
+        Grupo Planeta developing critical projects.
+      author:
+        name: Javier Poveda
+        link: https://www.linkedin.com/in/javierpoveda/
+        description: Project Manager at Grupo Planeta
+
 - name: 'CEAC/Home-English, OnLine Campus '
   image: ceac_pantallas_max.jpeg
   text: |-
