@@ -25,12 +25,13 @@
                 </blockquote>
               <% end %>
             <% end %>
+
+            <ul class="list-group list-group-flush">
+              <% project.details.each do |key, value| %>
+                <%= project_detail(key, value) %>
+              <% end %>
+            </ul>
           </div>
-          <ul class="list-group list-group-flush">
-            <% project.details.each do |key, value| %>
-              <%= project_detail(key, value) %>
-            <% end %>
-          </ul>
         </div>
       </div>
     </div>

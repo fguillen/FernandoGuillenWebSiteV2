@@ -92,6 +92,7 @@ GEM
     sassc (2.4.0)
       ffi (~> 1.9)
     servolux (0.13.0)
+    style_palette (0.0.7)
     temple (0.8.2)
     thor (1.1.0)
     tilt (2.0.10)
@@ -111,6 +112,7 @@ DEPENDENCIES
   middleman (~> 4.2)
   middleman-autoprefixer (~> 3.0)
   redcarpet
+  style_palette
   tzinfo-data
   wdm (~> 0.1)
 
