@@ -1,5 +1,21 @@
 ---
 
+- name: MediaStream Audio Visualization
+  image: media_recorder.png
+  text: |-
+    Working with the Web API (MediaRecorder)[https://developer.mozilla.org/en-US/docs/Web/API/MediaRecorder] is not easy.
+    I have been using it extensively in my project Playcocola. I have built this small visualization tool as a playground for
+    my researches with this collection of libraries.
+  details:
+    status: Production
+    dates: '2023'
+    client: Open Source
+    responsibilities: JS development
+    participation_as: Developer
+    technology: JS, MediaRecorder
+    code: https://github.com/fguillen/MediaStreamAudioVisualization
+    link: https://fguillen.github.io/MediaStreamAudioVisualization
+
 - name: Ryby in Fantasy
   image: fantasy.png
   text: |-
@@ -15,7 +31,7 @@
     Leveraging the metapraming super powers of Ruby.
   details:
     status: Pre-Alpha Version
-    dates: '2022'
+    dates: '2021 - 2023'
     client: Open Source
     responsibilities: Ruby DSL design and implementation.
     participation_as: Product Owner, Developer, Designer

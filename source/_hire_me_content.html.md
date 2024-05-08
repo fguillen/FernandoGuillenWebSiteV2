@@ -1,8 +1,8 @@
 ## What I do
 
-I specialize in **Full stack web development**.
-Rails projects maintenance.
-Architecture consulting. Technical team leadership.
+I specialize in **Full stack web development**,
+Rails projects maintenance,
+architecture consulting and technical team leadership.
 
 ## What I don't do
 
