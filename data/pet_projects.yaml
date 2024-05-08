@@ -1,5 +1,27 @@
 ---
 
+- name: Ryby in Fantasy
+  image: fantasy.png
+  text: |-
+    In many occasions I have been giving programming classes to children from 8 to 14 years old.
+    And what better hook for any children (and adult) for learning programming that programming a video game.
+    The are (many ruby libraries)[https://ruby-toolbox.com/categories/game_libraries] that covered video game development,
+    the most popular one is gosu, but the API lacks of basic things like UI elements, collision detection, keyboard mapping, ...
+
+    I have created *fantasy* to offer an user friendly API and DSL for quickly building video games using ruby.
+
+    The library is based on Gosu, but offering a nicer programming experience.
+
+    Leveraging the metapraming super powers of Ruby.
+  details:
+    status: Pre-Alpha Version
+    dates: '2022'
+    client: Open Source
+    responsibilities: Ruby DSL design and implementation.
+    participation_as: Product Owner, Developer, Designer
+    technology: Ruby, Gosy
+    code: https://github.com/fguillen/fantasy
+
 - name: Art-ificial Flower, Generative Art experimental project
   image: art_ificial_flower.png
   text: |-
@@ -13,20 +35,6 @@
     technology: JS, P5js
     code: https://github.com/fguillen/Art-ificialFlower
     link: https://fguillen.github.io/Art-ificialFlower/
-
-- name: Playcocola, The Playtesting Platform the Video Game Indie Community
-  image: playcocola.png
-  text: |-
-    The online playtesting platform specially made for indie developers. It is simple, easy to use and inexpensive.
-  details:
-    status: Early Access
-    dates: '2021-2022'
-    client: N/A
-    responsibilities: Front Developer, Back Developer, Deployment, DevOps
-    participation_as: Product Owner, Developer, Marketing, Sales and Maintainer
-    technology: Ruby on Rails, JS
-    code: https://github.com/fguillen/PlaycocolaBackend (Private)
-    link: https://land.playcocola.com/
 
 - name: Books Brook, Book sharing paid service specialized in high quality graphic novels
   image: books_brook.png

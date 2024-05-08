@@ -1,4 +1,48 @@
 ---
+- name: Playcocola, The Playtesting Platform the Video Game Indie Community
+  image: playcocola.png
+  text: |-
+    The online playtesting platform specially made for indie developers. It is simple, easy to use and inexpensive.
+
+    Web based video recording tool and backend platform.
+    Providing user research services to the game development industry.
+
+    I am the founder of this project.
+
+    Features include:
+
+    - Browser-based App
+    - Thinking Aloud recording
+    - Automatic Upload
+    - Playtesters Community
+
+    I am in charge not only for the techinical aspects but also marketing and ensuring customer satisfaction.
+
+  details:
+    status: Early Access
+    dates: '2022 - 2024'
+    client: Playcocola
+    responsibilities: Design, Product owner, Market fit, Front Developer, Back Developer, Deploys, Devops.
+    participation_as: Founder, Product Owner, Developer, Marketing, Sales and Maintainer
+    technology: Ruby on Rails, JS, MediaRecorder, MySQL
+    link: https://playcocola.com
+  quotes:
+  - text: Playcocola allows me not to think about the technical part of
+      playtesting and focus on working with the actual player feedback.
+      Very indie-friendly, allowing to start
+      for free and scale to professional
+      playtesting at very competitive rates, if needed.
+    author:
+      name: Nik Zherebtsov
+      link: https://store.steampowered.com/app/2430500/Delven/
+      description: Developer of Delven
+  - text: Playcocola is becoming a number 1 tool for my testing endeavors.
+      Being able to bring video along with feedback saves a lot of time and trouble.
+    author:
+      name: Michael Laroque
+      description: Playcocola profesional platesters
+
+
 - name: Dalia Research GmbH
   image: dalia_research.jpg
   text: |-
@@ -26,11 +70,11 @@
     As one of the co-founders I also took part of strategic initiatives decisions and represented company in the investors funding due diligences.
 
   details:
-    dates: '2013 - 2021'
+    dates: '2013 - 2022'
     client: Dalia Research GmbH
     responsibilities: "[My role responsibilities at Dalia](https://docs.google.com/document/d/1ch6PtLXhz_YHWkU4t_h8FG6CWYasrajsATLvLFzNh6E/edit)"
     participation_as: CTO / Co-founder
-    technology: Ruby on Rails, JS, React, VueJS, Spark, Kafka, Graphite, AWS, Docker, Redis, MongoDB
+    technology: Ruby on Rails, JS, React, VueJS, Spark, Kafka, Graphite, AWS, Docker, Redis, MongoDB, MySQL
   quotes:
   - text: There is few people that ever impressed me as much as Fernando - he is someone that
       radiates curiosity and uniquely combines playfulness and creativity, with extreme professionalism, detail-orientation and precision.
@@ -40,6 +84,7 @@
       name: Niklas Anzinger
       link: https://www.linkedin.com/in/niklas-anzinger-50031653/
       description: VP Strategy & Growth, Enterprise Solutions at Dalia Research
+
 - name: AppBounty
   image: appbounty.jpg
   text: |-
@@ -179,7 +224,7 @@
     dates: '2009'
     client: Management team of the Conference EuRuKo2009
     responsibilities: Idea and development of all platform
-    participation_as: Project Manager
+    participation_as: Project Manager, Development
     technology: Ruby on Rails
 - name: La Coctelera
   image: lacoctelera_pantallas_max.png

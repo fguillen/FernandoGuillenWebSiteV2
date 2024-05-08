@@ -1,87 +1,67 @@
 ## What I do
 
-I do **high quality ad-hoc web applications development**.
+I specialize in **Full stack web development**.
+Rails projects maintenance.
+Architecture consulting. Technical team leadership.
 
 ## What I don't do
 
-Although I love beautiful things, I used to design my own pet-projects
-and consider myself a creative person,
-I am not a professional graphic designer.
-**I don't do professional web design**.
-Amongst other things because I'm not good on it.
-
-**I don't do multi-purpose CMS integrations**.
-For many clients, a generic software solution is the best
-answer. These are readily available, often free, from the
-Internet. I don't do this kind of work.
-I am where an unique solution is needed.
+Although I appreciate aesthetics, have an art studies background and have designed my own pet projects,
+I consider myself a creative person rather than a professional graphic designer. Therefore,
+**I don't offer professional web design services**. Additionally,
+**I don't undertake multi-purpose CMS integrations**. While generic software solutions may
+suit many clients, I focus on providing unique, tailored solutions.
 
 ## Why hire me
 
-I have a lot of experience in web development, I am a **mature developer**, **business focused** and **productive**.
+I bring a wealth of experience to web development, embodying **production quality, business focus, and productivity**.
 
-I'm **not a competitive professional**,
-I will honestly say whether or not if I would be
-the best person for your project. If I am not I can
-refer you to some more suitable colleagues.
+I'm **not driven by competition**,
+and I'm upfront about whether I'm the best fit for your project.
+If not, I'm happy to refer you to more suitable colleagues.
 
-I **can accommodate
-client decision changes**. I can make changes quickly
-and easily.
+I **am adaptable to client decision changes**, offering quick and seamless adjustments.
 
-I use **the most productive web development tools**
-so I can produce better results faster.
+I leverage **the most efficient web development tools** to deliver superior results efficiently.
 
-Although my speciality is the back-end development,
-I have a good knowledge of **every phase and layer of web development**.
-Functional analysis, team management, usability decisions,
-XHTML/CSS, front development (JavaScript, CSS, HTML),
-servers configuration and maintenance,
-databases, etc...
+While I specialize in back-end development, I possess comprehensive knowledge across
+**all phases and layers of web development**, including functional analysis,
+team management, usability decisions, front-end development (JavaScript, CSS, HTML),
+server configuration and maintenance, databases, and more.
 
-I am in **regular contact with high level professionals**
-in the same field of work and we offer each other mutual
-support, so there is always a solution to be found.
+I maintain **regular contact with high-level professionals** in my field,
+we offer each other mutual support and ensure solutions are always within reach.
 
-My main concern is **client satisfaction**.
-I have never
-left a client in the lurch and so far, as I am aware, I
-have never had a dissatisfied client.
+Client satisfaction is my main concern.
+I have never left a client in the lurch, and to my knowledge,
+**I have never had a dissatisfied client**.
 
 ## How to hire me
 
-Read all the details on this page. Let me know if you have any question. Talk me about you, about your project and about your team.
+Read through the details on this page and don't hesitate to reach out with
+any questions. Share information about yourself, your project, and your team.
 
-Let me know how can I help you and what do you expect from me.
+Let me know what your needs are and how I can assist you.
 
 ## How I work
 
-I work in a freelancer contractual arrangement.
+I usually operate under a freelancer contractual arrangement.
+But for long commitment projects an employee contract may be more suitable.
 
 I work on **weekly milestones**,
-**daily activity reports**,
-**full and continuos contact
-with the client and with the team**.
-I usually work **remotely**,
-but personal meetings are possible if we decide they will
-offer something valuable and productive for the project.
+and provide **daily activity reports**.
+I maintain **continuous communication with the client and the team**.
+While I typically work **remotely**,
+I'm open to personal meetings if deemed valuable and productive for the project.
 
-If long commuting is required travel and accommodation
-costs will be remunerated by the client.
+If extensive travel is necessary, travel and accommodation
+costs will be covered by the client.
 
-I am in the Berlin time zone (Central European Summer Time)
+I am located in the Berlin time zone (Central European Summer Time).
+
+I am EU citizen.
 
 ## What is my budget
 
-Depending on the intensity and time-scale of the project,
-my rate is **900€/day** plus taxes.
-
-Even the simplest web service needs at least 4 to 6
-weeks development and cannot be started until I have
-finished any work in hand.
-The great majority of projects take about **8 ~ 12 weeks**
-until a public beta version is released and ~ 4 weeks more of
-fixing and stabilizing the whole functionality
-of the project.
-
-Payments to be made weekly.
+My rate range is from **50€/hour** to **120€/hour** (plus taxes),
+depending on the intensity and timeframe of the project.

@@ -1,17 +1,17 @@
-  Full-stack freelancer web developer, primarily using Ruby on Rails and associated technologies.
+Full-stack senior web developer, specializing in Ruby on Rails and associated technologies.
 
-  I am a specialist in getting technology products off the ground, from design idea to fully functional application. Focus on production quality, but also on fast feedback loops: deliver fast and iterate. On this role I have worked for start-ups, big companies and also on personal entrepreneurial projects. As an "individual contributor" or as part of a small or large engineering team, as a senior developer or leading architecture decisions.
+I specialize in getting web projects off the ground, guiding them from design concept to fully functional applications. My focus lies on ensuring production quality while maintaining fast development cycles and rapid feedback loops (deliver fast and iterate). As a senior developer position I have worked for startups, large corporations, and personal entrepreneurial ventures, contributing either as an individual developer or as part of engineering teams of varying sizes, often taking on leadership roles and influencing architectural decisions.
 
-  Most recently in my role as a Co-founder and CTO of a fast growing technology company, I was hands-on directing the implementation from scratch of an architecture that now supports more than 100K requests/min and a business of 8 figures. Leading the technology decisions of a team of ~80 members.
+Most recently, as Co-founder and CTO of a rapidly growing technology company, I was hands-on directing the implementation from scratch of an architecture that now supports more than 100K requests/min and a business of 8 figures yearly. Leading the technology decisions of a team of ~80 members. The architecture was [adquired in 2022 by PureSpectrum](https://www.mrweb.com/drno/news33211.htm)
 
-  I primarily work on Rails applications, but have a solid exposure to the full web development stack.
+While my primary expertise lies in Rails applications, I have a solid exposure to the full web development stack
 
-  At one time or another, I have been in charge of: prototyping, implementing deployment CI based processes, cloud based servers administration, working on or directing agile/scrum teams, working hand by hand with the product team, suffering the hell of having to make C level decisions, implementing microservices architectures, dealing with high load traffic, fraud prevention, performance monitoring, autoscaling, terabytes sized DBs, no down-time big DB migrations, APIs design, ...
+Over time, I've been responsible for a range of tasks, including prototyping, implementing CI-based deployment processes, managing cloud-based servers, front-end development, agile/scrum team management, collaboration with product teams, C-level executive decision-making, microservices architecture implementation, handling high-traffic sites, fraud prevention, performance monitoring, observability and telemetry, autoscaling, managing terabyte-sized databases, down-time-less big database migrations, and API design.
 
-  I've also had plenty of exposure to different languages including Python, C#, Java. And of course most of the modern JS frameworks like React and VueJS.
+I have extensive experience with various languages such as Python, C#, and Java, as well as familiarity with modern JS frameworks like ReactJS and VueJS.
 
-  ... But Ruby is what I enjoy working the most.
+... However, Ruby remains what I enjoy working the most.
 
-  I am not just a developer, I have sensibility for the business needs, I know when to make compromises, I have a pragmatic approach, I put always the priority in business grow and success, I know when to offer alternatives. I am used to working elbow to elbow with the product, sales and leader teams.
+Beyond my technical skills, I possess a keen understanding of business needs, demonstrating the ability to make pragmatic decisions and prioritize business growth and success. I excel at collaborating closely with product, sales, and leadership teams, offering alternatives when necessary and knowing when to make compromises.
 
-  I have had the luck of having been always surrounded by incredibly well talented people. I have learned everything I know from them. I owe everything I know to the people of the teams I have worked in, to the community around open source, web development in general and Ruby in particular.
+Throughout my career, I've had the privilege of working alongside incredibly talented individuals, from whom I've learned and grown. I owe much of my knowledge and skills to the exceptional teams I've been a part of and the broader open-source and web development communities, particularly those centered around Ruby.
