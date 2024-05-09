@@ -66,4 +66,4 @@ any questions. Share information about yourself, your project, and your team.
 
 Let me know what your needs are and how I can assist you.
 
-<a href="mailto:fguillen.mail@gmail.com" class="btn btn-primary btn-lg px-4" target="_blank">Contact me</a>
+<a href="mailto:hello@fernandoguillen.info" class="btn btn-primary btn-lg px-4" target="_blank">Contact me</a>
