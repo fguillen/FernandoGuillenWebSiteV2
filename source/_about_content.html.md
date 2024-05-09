@@ -2,7 +2,7 @@ Full-stack senior web developer, specializing in Ruby on Rails and associated te
 
 I specialize in getting web projects off the ground, guiding them from design concept to fully functional applications. My focus lies on ensuring production quality while maintaining fast development cycles and rapid feedback loops (deliver fast and iterate). As a senior developer position I have worked for startups, large corporations, and personal entrepreneurial ventures, contributing either as an individual developer or as part of engineering teams of varying sizes, often taking on leadership roles and influencing architectural decisions.
 
-Most recently, as Co-founder and CTO of a rapidly growing technology company, I was hands-on directing the implementation from scratch of an architecture that now supports more than 100K requests/min and a business of 8 figures yearly. Leading the technology decisions of a team of ~80 members. The architecture was [adquired in 2022 by PureSpectrum](https://www.mrweb.com/drno/news33211.htm)
+Most recently, as Co-founder and CTO of a rapidly growing technology company, I was hands-on directing the implementation from scratch of an architecture that now supports more than 100K requests/min and a business of 8 figures yearly. Leading the technology decisions of a team of ~80 members. The architecture was [adquired in 2022 by PureSpectrum](https://www.mrweb.com/drno/news33211.htm).
 
 While my primary expertise lies in Rails applications, I have a solid exposure to the full web development stack
 

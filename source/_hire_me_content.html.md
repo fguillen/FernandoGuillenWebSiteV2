@@ -36,13 +36,6 @@ Client satisfaction is my main concern.
 I have never left a client in the lurch, and to my knowledge,
 **I have never had a dissatisfied client**.
 
-## How to hire me
-
-Read through the details on this page and don't hesitate to reach out with
-any questions. Share information about yourself, your project, and your team.
-
-Let me know what your needs are and how I can assist you.
-
 ## How I work
 
 I usually operate under a freelancer contractual arrangement.
@@ -65,3 +58,12 @@ I am EU citizen.
 
 My rate range is from **50€/hour** to **120€/hour** (plus taxes),
 depending on the intensity and timeframe of the project.
+
+## How to hire me
+
+Read through the details on this page and don't hesitate to reach out with
+any questions. Share information about yourself, your project, and your team.
+
+Let me know what your needs are and how I can assist you.
+
+<a href="mailto:fguillen.mail@gmail.com" class="btn btn-primary btn-lg px-4" target="_blank">Contact me</a>

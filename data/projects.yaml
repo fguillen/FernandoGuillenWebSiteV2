@@ -42,6 +42,37 @@
       name: Michael Laroque
       description: Playcocola profesional platesters
 
+- name: Latana, Directing a Technology Adquisition Transfer
+  image: latana.png
+  text: |-
+    Latana is helping brands make better marketing decisions by delivering world-class, scalable insights.
+
+    Their technology is based in the architecture I built for Dalia Research.
+
+    In 2022 they made a big restructuring of the thechnology based in Rails microservices. Part
+    of it was adquired by a US based company.
+
+    I was accountable for the design and execution of the Ruby on Rails platform technology assets
+    purchase transfer strategy between Latana and the international partner buyer.
+
+    I led the process, from the technology perspective, synchronising with both companies tech teams
+    and executing the needed steps for the successful and smooth assets transfer, which includes
+    dozens of Ruby no Rails microservices, huge DBs and big data services. Mostly based on Ruby ecosystems.
+
+    Successfully completed complex tech transfer, adjusted to budget and ahead of time.
+    Successes included making the transition in the estimated time without any outage in the systems,
+    handover and document the important knowhow base, handholding new developers to feel
+    comfortable with the systems.
+
+  details:
+    status: Transfer Success
+    dates: '2022 - 2023'
+    client: Latana GmbH
+    responsibilities: Design, Product owner, Market fit, Front Developer, Back Developer, Deploys, Devops.
+    participation_as: Ruby on Rails expert, Advisor, Technology Transfer Strategy
+    technology: Ruby on Rails, JS, React, VueJS, Spark, Kafka, Graphite, AWS, Docker, Redis, MongoDB, MySQL
+    link: https://www.mrweb.com/drno/news33211.htm
+
 
 - name: Dalia Research GmbH
   image: dalia_research.jpg
