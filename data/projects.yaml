@@ -47,22 +47,15 @@
   text: |-
     Latana is helping brands make better marketing decisions by delivering world-class, scalable insights.
 
-    Their technology is based in the architecture I built for Dalia Research.
+    Their technology is based on the architecture I built for Dalia Research.
 
-    In 2022 they made a big restructuring of the thechnology based in Rails microservices. Part
-    of it was adquired by a US based company.
+    In 2022, they made a significant restructuring of the technology based on Rails microservices. Part of it was adquired by a US based company.
 
-    I was accountable for the design and execution of the Ruby on Rails platform technology assets
-    purchase transfer strategy between Latana and the international partner buyer.
+    I was accountable for the design and execution of the Ruby on Rails platform technology assets purchase transfer strategy between Latana and the international partner buyer.
 
-    I led the process, from the technology perspective, synchronising with both companies tech teams
-    and executing the needed steps for the successful and smooth assets transfer, which includes
-    dozens of Ruby no Rails microservices, huge DBs and big data services. Mostly based on Ruby ecosystems.
+    I led the process from the technology perspective, synchronizing with both companies' tech teams and executing the needed steps for the successful and smooth asset transfer. This included dozens of Ruby on Rails microservices, huge DBs, and extensive data services, primarily based on Ruby ecosystems.
 
-    Successfully completed complex tech transfer, adjusted to budget and ahead of time.
-    Successes included making the transition in the estimated time without any outage in the systems,
-    handover and document the important knowhow base, handholding new developers to feel
-    comfortable with the systems.
+    Successfully completed complex tech transfer, adjusted to budget, and was ahead of time. Successes included making the transition in the estimated time without any system outages, handing over and documenting the important know-how base, and handholding new developers to feel comfortable with the systems.
 
   details:
     status: Transfer Success
@@ -77,28 +70,26 @@
 - name: Dalia Research GmbH
   image: dalia_research.jpg
   text: |-
-    I hands-on directed the implementation from scratch of an architecture that now supports more than 100K requests/min and a business of 8 figures. I leaded the technology decisions of a team of ~80 members.
+    I hands-on directed the implementation of an architecture that now supports more than 100K requests/min and a business of 8 figures. I led the technology decisions of a team of ~80 members.
 
     - 500M Micro-Surveys per month
     - 220K Respondents per day in 100+ countries
     - 100K Requests/minute
     - DBs with 5K IOPs
     - 500 Servers
-    - 30 Micro services
+    - 30 Microservices
 
-    I took the role of CTO and one of the co-founders at Dalia and my key responsibility was to create a great technical architecture
-    that is easy to work with and that is capable of rapidly adapting to the business needs.
+    I took the role of CTO and one of the co-founders at Dalia. My key responsibility was to create a great technical architecture that is easy to work with and capable of rapidly adapting to business needs.
 
-    I formed part of the Engineering Teams (Development, Data Science, DevOps and Quality Assurance).
+    I formed part of the Engineering Teams (Development, Data Science, DevOps, and Quality Assurance).
 
-    I participated in any initiative that requires technology support.
-    Including technical advice, high level strategic technical decisions, technical architecture design, inter product technical dependencies, third-party technologies integrations.
+    I participated in any initiative that required technology support, including technical advice, high-level strategic technical decisions, technical architecture design, interproduct technical dependencies, and third-party technology integrations.
 
     I got involved in any management-related initiative related to Engineering.
 
     I also participated in giving strategy consulting support for business high perspective initiatives.
 
-    As one of the co-founders I also took part of strategic initiatives decisions and represented company in the investors funding due diligences.
+    As one of the co-founders, I also took part in strategic initiative decisions and represented the company in the investors' funding due diligence.
 
   details:
     dates: '2013 - 2022'
