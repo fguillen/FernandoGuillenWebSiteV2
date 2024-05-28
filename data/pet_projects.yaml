@@ -38,10 +38,29 @@
     technology: Ruby, Gosy
     code: https://github.com/fguillen/fantasy
 
+- name: Dots Gathering, a gathering of dots
+  image: dots_gathering.png
+  text: |-
+    I felt in love with a texture in a porcelain cup. It was so simple, so naïve,
+    I wanted to give it another dimension. The most difficult part of this project is
+    to try to simulate the randomness of the manual generation of a repetitive pattern.
+    How to program the algorithm so it looks like there is no patter underneath?
+  details:
+    status: Production Version
+    dates: '2022'
+    client: Open Source
+    responsibilities: JS Developer
+    participation_as: Product Owner, Developer, Designer
+    technology: JS, P5js
+    code: https://github.com/fguillen/DotsGathering
+    link: https://fguillen.github.io/DotsGathering/
+
 - name: Art-ificial Flower, Generative Art experimental project
   image: art_ificial_flower.png
   text: |-
-    Sometimes the only thing we need is to feel our uniqueness, how special we are, how difficult is to find someone exactly as you. This small creation will be born specially for you, it will be unique as you are.
+    Sometimes the only thing we need is to feel our uniqueness, how special we are,
+    how difficult is to find someone exactly as you. This small creation will be born specially
+    for you, it will be unique as you are.
   details:
     status: Production Version
     dates: '2022'
@@ -87,7 +106,9 @@
 - name: My Perfect Weekend, Web site to share how your perfect weekend looks like
   image: my_perfect_weekend.png
   text: |-
-    Artistic exercise to experiment and create some muscles with P5js.
+    We all have these good moments in Berlin, on these places that we have made ours because they really suite our personality or resonates with the mood we are. Berlin is such a kaleidoscope of discoveries.
+
+    If you can imagine in detail your perfect weekend in Berlin, how it would be? Where will you go for breakfast and just after that?
   details:
     status: Production Version
     dates: '2021'
@@ -102,9 +123,7 @@
 - name: Geometric Sounds, Overlapping metronome
   image: geometric_sounds.png
   text: |-
-    We all have these good moments in Berlin, on these places that we have made ours because they really suite our personality or resonates with the mood we are. Berlin is such a kaleidoscope of discoveries.
-
-    If you can imagine in detail your perfect weekend in Berlin, how it would be? Where will you go for breakfast and just after that?
+    Artistic exercise to experiment and create some muscles with P5js.
   details:
     status: Production Version
     dates: '2021'
